@@ -1,0 +1,197 @@
+{%- assign transparent_value = 'rgba(0,0,0,0)' -%}
+{% capture bg_color %}
+    {% if section.settings.bg_color != blank and section.settings.bg_color != transparent_value %}
+    background-color:{{ section.settings.bg_color }};
+    {% endif %}
+{% endcapture %}
+
+{% capture title_color %}
+    {% if section.settings.title_color != blank and section.settings.title_color != transparent_value %}
+    style="color: {{- section.settings.title_color -}}"
+    {% endif %}
+{% endcapture %}
+
+{% capture text_color %}
+    {%- if section.settings.text_color != blank and section.settings.text_color != transparent_value -%}
+    style="color: {{- section.settings.text_color -}};"
+    {%- endif -%}
+{% endcapture %}
+
+{% capture no_enter %}
+    <svg height="66" width="66" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg"><path d="m56.33 9.67c-6.23-6.24-14.51-9.67-23.33-9.67s-17.1 3.43-23.33 9.67c-6.24 6.23-9.67 14.52-9.67 23.33s3.43 17.1 9.67 23.33c6.23 6.23 14.52 9.67 23.33 9.67s17.1-3.43 23.33-9.67c6.23-6.23 9.67-14.52 9.67-23.33s-3.43-17.1-9.67-23.33zm-4.24 4.24c9.81 9.81 10.47 25.35 2 35.94l-37.94-37.94c4.77-3.82 10.65-5.91 16.85-5.91 7.21 0 13.99 2.81 19.09 7.91zm-38.18 38.18c-9.81-9.81-10.47-25.35-2-35.94l37.94 37.94c-4.77 3.82-10.65 5.91-16.85 5.91-7.21 0-13.99-2.81-19.09-7.91z" fill="#e5e5e5"/></svg>
+{% endcapture %}
+
+<style>
+#age-verification-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    z-index:1000;
+    transform: translate(-50%,-50%);
+    min-width: 300px;
+    }
+
+.age-modal-inner {
+        background-color: white;
+        {{- bg_color -}}
+        min-width: 300px;
+}
+
+#age-verification-overlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.8);
+    z-index: 999;
+}
+
+#age-verification-message {
+    font-size: 13px;
+    line-height: 22px;
+
+}
+</style>
+
+<div id="age-verification-overlay" style="display:none"></div>
+<div id="age-verification-modal" style="display:none">
+    <div class="age-modal-inner p-50">
+        <div class="row justify-content-center">
+            {{- no_enter -}}
+        </div>
+        <h2 id="age-verification-title" class="h4 mt-20 text-center" {{- title_color -}}>{{- section.settings.title -}}</h2>
+        <p id="age-verification-message" {{- text_color -}} >{{- section.settings.textarea -}}</p>
+        <div class="row mt-20 justify-content-center " >
+        <div class="col-12 col-lg-6">
+            <button id="age-yes-btn" class="btn w-100">{{- section.settings.button_yes -}}</button>
+        </div>
+        <div class="col-12 col-lg-6">
+            <button id="age-no-btn" class="btn btn--secondary w-100 mt-20 mt-lg-0 ">{{- section.settings.button_no -}}</button>
+        </div>
+        </div>
+    </div>
+</div>
+
+<script>
+const ageModal = document.getElementById('age-verification-modal');
+const ageOverlay = document.getElementById('age-verification-overlay');
+const ageYesBtn = document.getElementById('age-yes-btn')
+const ageNoBtn = document.getElementById('age-no-btn')
+
+function showAgeModal(){
+    ageModal.style.display = "block";
+    ageOverlay.style.display = "block";
+}
+
+function hideAgeModal(){
+    ageModal.style.display = "none";
+    ageOverlay.style.display = "none";
+}
+
+function checkAgeVerification(){
+    if(!localStorage.getItem("ageVerified")) {
+        showAgeModal()
+    }
+}
+
+ageYesBtn.addEventListener('click', () => {
+    localStorage.setItem("ageVerified", "true");
+    hideAgeModal()
+})
+ageNoBtn.addEventListener('click', () => {
+    window.history.back();
+})
+
+checkAgeVerification();
+
+</script>
+
+{% schema %}
+    {
+        "name": "年齢確認ポップアップ - セクション", 
+        "limit": 1,
+        "settings": [
+            {
+                "type": "header",
+                "content": "年齢確認ポップアップ - テンプレート用" 
+            },
+            {
+                "type": "paragraph",
+                "content": "編集中のポップアップは｢保存｣をクリックしてご確認ください。"
+            },
+            {
+                "type": "header",
+                "content": "ご注意"
+            },
+            {
+                "type": "paragraph",
+                "content": "一度｢はい｣を押すとブラウザに記録され、再表示されません。確認にはシークレットブラウジングなどをご使用ください"
+            },
+            {
+                "type": "paragraph",
+                "content": "この年齢確認のポップアップはテンプレートごとに個別に設置できます。ただし一度｢はい｣を押すと、その情報はブラウザに記録され、他のページでは現れないようになります。そのため、年齢確認のポップアップ内容は統一してください。"
+            },
+            {
+                "type": "text",
+                "id": "title", 
+                "label": "年齢確認 (タイトル)",
+                "default": "年齢確認"
+            },
+            {
+                "type": "textarea",
+                "id": "textarea",
+                "label": "年齢確認のための文章",
+                "default": "こちらの商品は20歳以上の方を対象としています。20歳以上の方は｢はい｣を押してお進みください。20歳未満の方は｢いいえ｣を押してお戻りください。"
+            },
+            {
+                "type": "text",
+                "id": "button_no",
+                "label": "戻るボタン",
+                "info": "戻るボタンのテキスト。注意:このボタンを押すとブラウザの｢戻る｣と同じ操作となります。",
+                "default": "いいえ"
+            },
+            {
+                "type": "text",
+                "id": "button_yes",
+                "label": "進むボタン",
+                "info": "ポップアップを閉じるボタンのテキスト。",
+                "default": "はい"
+            },
+            {
+                "type": "header",
+                "content": "カラー設定"
+            },
+            {
+                "type": "color",
+                "id": "bg_color",
+                "label": "ポップアップの背景色"
+            },
+            {
+                "type": "color",
+                "id": "title_color",
+                "label": "タイトルの色"
+            },
+            {
+                "type": "color",
+                "id": "text_color",
+                "label": "テキストの色"
+            },
+            {
+                "type": "header",
+                "content": "商品テンプレートへの設置に関して"
+            },
+            {
+                "type": "paragraph",
+                "content": "商品テンプレートに年齢確認ポップアップを設置する場合は、フットバーの有効化のチェックを外してご使用ください。フッターバーの無効化は｢テーマ設定 > 商品とクイックビュー > フットバー｣の項目より変更できます。"
+            }
+        ],
+       "presets": [
+            {
+                "name": "年齢確認ポップアップ - セクション",
+                "category": "category"
+            }
+       ]
+    }  
+{% endschema %}
