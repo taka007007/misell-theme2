@@ -890,12 +890,6 @@
         "content": "t:settings_schema.typography.settings.header__1.content"
       },
       {
-        "type": "font_picker",
-        "label": "t:settings_schema.typography.settings.font_base.label",
-        "id": "font_base",
-        "default": "basic_commercial_n4"
-      },
-      {
         "type": "checkbox",
         "id": "font_base_apply_to_all",
         "label": "t:settings_schema.typography.settings.font_base_apply_to_all.label",
@@ -903,10 +897,108 @@
         "default": true
       },
       {
+        "type": "radio",
+        "id": "font_base_apply_to_selection",
+        "label": "t:settings_schema.typography.settings.font_base_apply_to_selection.label",
+        "default": "system",
+        "options": [
+          {
+            "value": "system",
+            "label": "t:settings_schema.typography.settings.font_base_apply_to_selection.option__1.label"
+          },
+          {
+            "value": "google",
+            "label": "t:settings_schema.typography.settings.font_base_apply_to_selection.option__2.label"
+          },
+          {
+            "value": "shopify", 
+            "label": "t:settings_schema.typography.settings.font_base_apply_to_selection.option__3.label"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "id": "font_base_apply_to_custom",
+        "label": "t:settings_schema.typography.settings.font_base_apply_to_custom.label",
+        "default": "-apple-system,BlinkMacSystemFont,'Helvetica Neue','Segoe UI','Hiragino Kaku Gothic ProN','Hiragino Sans',Arial,Meiryo,sans-serif",
+        "info": "t:settings_schema.typography.settings.font_base_apply_to_custom.info"
+      },
+      {
+        "type": "select",
+        "id": "font_base_apply_to_google_select",
+        "label": "t:settings_schema.typography.settings.font_base_apply_to_google_select.label",
+        "info": "t:settings_schema.typography.settings.font_base_apply_to_google_select.info",
+        "default": "'Noto Sans JP', sans-serif",
+        "options":[
+          {
+            "value": "'Noto Sans JP', sans-serif",
+            "label": "Noto Sans Japanese"
+          },
+          {
+            "value": "'Noto Serif JP', serif",
+            "label": "Noto Serif Japanese"
+          },
+          {
+            "value": "'Zen Kaku Gothic New', sans-serif",
+            "label": "Zen Kaku Gothic New"
+          },
+          {
+            "value": "'Zen Maru Gothic', sans-serif",
+            "label": "Zen Maru Gothic"
+          },
+          {
+            "value": "'Zen Old Mincho', serif",
+            "label": "Zen Old Mincho"
+          },
+          {
+            "value": "'M PLUS 1p', sans-serif",
+            "label": "M PLUS 1p"
+          },
+          {
+            "value": "'M PLUS Rounded 1c', sans-serif",
+            "label": "M PLUS Rounded 1c"
+          },
+          {
+            "value": "'Shippori Mincho', serif",
+            "label": "Shippori Mincho"
+          },
+          {
+            "value": "'Sawarabi Gothic', sans-serif",
+            "label": "Sawarabi Gothic"
+          },
+          {
+            "value": "'Sawarabi Mincho', serif",
+            "label": "Sawarabi Mincho"
+          },
+          {
+            "value": "'Hina Mincho', serif",
+            "label": "Hina Mincho"
+          },
+          {
+            "value": "'Kaisei Opti', sans-serif",
+            "label": "Kaisei Opti"
+          },
+          {
+            "value": "'Kiwi Maru', display",
+            "label": "Kiwi Maru"
+          },
+          {
+            "value": "'Kosugi Maru', sans-serif",
+            "label": "Kosugi"
+          }
+        ]
+      },
+      {
+        "type": "font_picker",
+        "label": "t:settings_schema.typography.settings.font_base.label",
+        "id": "font_base",
+        "default": "basic_commercial_n4"
+      },
+      {
         "type": "select",
         "id": "font_base_type",
         "label": "t:settings_schema.typography.settings.font_base_type.label",
-        "info": "t:settings_schema.typography.settings.font_base_type.info",
+        // "info": "t:settings_schema.typography.settings.font_base_type.info",
         "default": "none",
         "options": [
           {
@@ -914,36 +1006,28 @@
             "label": "t:settings_schema.typography.settings.font_base_type.option__1.label"
           },
           {
-            "value": "semi_bold",
-            "label": "t:settings_schema.typography.settings.font_base_type.option__2.label"
-          },
-          {
-            "value": "bold",
-            "label": "t:settings_schema.typography.settings.font_base_type.option__3.label"
-          },
-          {
-            "value": "medium",
-            "label": "t:settings_schema.typography.settings.font_base_type.option__4.label"
-          },
-          {
             "value": "italic",
             "label": "t:settings_schema.typography.settings.font_base_type.option__5.label"
+          }
+        ]
+      },
+      {
+        "type": "select",
+        "id": "font_base_weight",
+        "label": "t:settings_schema.typography.settings.font_base_weight.label",
+        "default": "400",
+        "options": [
+          {
+            "value": "300",
+            "label": "t:settings_schema.typography.settings.font_base_weight.option__3.label"
           },
           {
-            "value": "semi_bold_n_italic",
-            "label": "t:settings_schema.typography.settings.font_base_type.option__6.label"
+            "value": "400",
+            "label": "t:settings_schema.typography.settings.font_base_weight.option__4.label"
           },
           {
-            "value": "bold_n_italic",
-            "label": "t:settings_schema.typography.settings.font_base_type.option__7.label"
-          },
-          {
-            "value": "bold_italic",
-            "label": "t:settings_schema.typography.settings.font_base_type.option__8.label"
-          },
-          {
-            "value": "all",
-            "label": "t:settings_schema.typography.settings.font_base_type.option__9.label"
+            "value": "700",
+            "label": "t:settings_schema.typography.settings.font_base_weight.option__7.label"
           }
         ]
       },
