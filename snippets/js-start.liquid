@@ -35,6 +35,9 @@
     {%- if need_shopify_common_js -%}
         theme.AssetsLoader.require('scripts', 'shopify_common');
     {%- endif -%}
+    {%- if settings.font_all_apply_to_budoux -%}
+        theme.AssetsLoader.require('scripts', 'misell-budoux');
+    {%- endif -%}
     {%- if settings.dev_enable_custom_js == true -%}
         theme.AssetsLoader.require('scripts', 'custom');
     {%- endif -%}
