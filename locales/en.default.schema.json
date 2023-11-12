@@ -679,7 +679,7 @@
           "info": "The number of font weights varies depending on the font[Google Fonts Official](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
         },
         "font_heading": {
-          "label": "Font family"
+          "label": "Shopify Management Font family"
         },
         "font_heading_type": {
           "label": "Load additional style",

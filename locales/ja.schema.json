@@ -679,7 +679,7 @@
           "info": "フォントによりウエイト数が異なります。詳しくは、[こちら](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
         },
         "font_heading": {
-          "label": "フォントファミリー"
+          "label": "Shopify管理フォント(見出し)"
         },
         "font_heading_type": {
           "label": "追加スタイルの適用",
