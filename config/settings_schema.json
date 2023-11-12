@@ -1161,6 +1161,26 @@
         ]
       },
       {
+        "type": "select",
+        "id": "font_heading_weight",
+        "label": "t:settings_schema.typography.settings.font_heading_weight.label",
+        "default": "400",
+        "options": [
+          {
+            "value": "300",
+            "label": "t:settings_schema.typography.settings.font_base_weight.option__3.label"
+          },
+          {
+            "value": "400",
+            "label": "t:settings_schema.typography.settings.font_base_weight.option__4.label"
+          },
+          {
+            "value": "700",
+            "label": "t:settings_schema.typography.settings.font_base_weight.option__7.label"
+          }
+        ]
+      },
+      {
         "type": "range",
         "id": "font_size_h1",
         "min": 10,
