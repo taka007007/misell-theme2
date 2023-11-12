@@ -658,6 +658,18 @@
         "header__2": {
           "content": "見出し"
         },
+        "font_heading_apply_to_selection": {
+          "label": "フォントの選択(見出し)",
+          "option__1": {
+            "label": "システムフォント(高速)"
+          },
+          "option__2": {
+            "label": "Googleフォント"
+          },
+          "option__3": {
+            "label": "Shopify管理フォント"
+          }
+        },
         "font_heading": {
           "label": "フォントファミリー"
         },

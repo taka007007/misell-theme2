@@ -658,6 +658,18 @@
         "header__2": {
           "content": "Heading"
         },
+        "font_heading_apply_to_selection": {
+          "label": "Heading font selection",
+          "option__1": {
+            "label": "System font (fast display)"
+          },
+          "option__2": {
+            "label": "Google Fonts"
+          },
+          "option__3": {
+            "label": "Shopify Management Font"
+          }
+        },
         "font_heading": {
           "label": "Font family"
         },
