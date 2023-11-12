@@ -1330,12 +1330,12 @@
       //   "type": "paragraph",
       //   "content": "t:settings_schema.typography.settings.paragraph__1.content"
       // },
-      {
-        "type": "checkbox",
-        "label": "t:settings_schema.typography.settings.font_load_alternative.label",
-        "id": "font_load_alternative",
-        "default": false
-      },
+      // {
+      //   "type": "checkbox",
+      //   "label": "t:settings_schema.typography.settings.font_load_alternative.label",
+      //   "id": "font_load_alternative",
+      //   "default": false
+      // },
       {
         "type": "font_picker",
         "label": "t:settings_schema.typography.settings.font_alternative.label",
