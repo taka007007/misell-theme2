@@ -658,6 +658,9 @@
         "header__2": {
           "content": "見出し"
         },
+        "font_all_apply_to_budoux": {
+          "label": "日本語の自動改行を有効化"
+        },
         "font_heading_apply_to_selection": {
           "label": "フォントの選択(見出し)",
           "option__1": {

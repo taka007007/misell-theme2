@@ -658,6 +658,9 @@
         "header__2": {
           "content": "Heading"
         },
+        "font_all_apply_to_budoux": {
+          "label": "Enable automatic sentence break for Japanese"
+        },
         "font_heading_apply_to_selection": {
           "label": "Heading font selection",
           "option__1": {
