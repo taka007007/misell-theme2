@@ -563,6 +563,13 @@
         "header__1": {
           "content": "ボディー"
         },
+        "font_all_apply_to_font_feature":{
+          "label": "日本語フォントの文字詰め",
+          "info": "'palt'：仮名・カッコ・句読点の詰め 'pwid'：仮名・カッコの詰め　　-'pkna'：仮名のみ詰め",
+          "option__1": {
+            "label": "なし"
+          }
+        },
         "font_base": {
           "label": "Shopify管理フォント選択時有効(本文)"
         },

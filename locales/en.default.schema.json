@@ -563,6 +563,13 @@
         "header__1": {
           "content": "Body"
         },
+        "font_all_apply_to_font_feature":{
+          "label": "Japanese font kerning",
+          "info": "'palt': kerning of kana, parentheses, and punctuation 'pwid': kerning of kana and parentheses 'pkna': kerning of kana only",
+          "option__1": {
+            "label": "none"
+          }
+        },
         "font_base": {
           "label": "Shopify managed Base font family"
         },

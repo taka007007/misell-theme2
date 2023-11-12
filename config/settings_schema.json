@@ -886,6 +886,31 @@
     "name": "t:settings_schema.typography.name",
     "settings": [
       {
+        "type": "select",
+        "id": "font_all_apply_to_font_feature",
+        "label": "t:settings_schema.typography.settings.font_all_apply_to_font_feature.label",
+        "default":  "'initial'",
+        "info": "t:settings_schema.typography.settings.font_all_apply_to_font_feature.info",
+        "options":[
+          {
+            "value": "'initial'",
+            "label": "t:settings_schema.typography.settings.font_all_apply_to_font_feature.options__1.label"
+          },
+          {
+            "value": "'palt'",
+            "label": "palt"
+          },
+          {
+            "value": "'pwid'",
+            "label": "pwid"
+          },
+          {
+            "value": "'pkna'",
+            "label": "pkna"
+          }
+        ]
+      },
+      {
         "type": "header",
         "content": "t:settings_schema.typography.settings.header__1.content"
       },
