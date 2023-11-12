@@ -1046,6 +1046,12 @@
         "content": "t:settings_schema.typography.settings.header__2.content"
       },
       {
+        "type": "checkbox",
+        "id": "font_all_apply_to_budoux",
+        "label": "t:settings_schema.typography.settings.font_all_apply_to_budoux.label",
+        "default": true
+      },
+      {
         "type": "radio",
         "id": "font_heading_apply_to_selection",
         "label": "t:settings_schema.typography.settings.font_heading_apply_to_selection.label",
