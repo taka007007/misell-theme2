@@ -1342,39 +1342,39 @@
       //   "id": "font_alternative",
       //   "default": "basic_commercial_n4"
       // },
-      {
-        "type": "select",
-        "id": "font_alternative_type",
-        "label": "t:settings_schema.typography.settings.font_alternative_type.label",
-        "info": "t:settings_schema.typography.settings.font_alternative_type.info",
-        "default": "none",
-        "options": [
-          {
-            "value": "none",
-            "label": "t:settings_schema.typography.settings.font_alternative_type.option__1.label"
-          },
-          {
-            "value": "bold",
-            "label": "t:settings_schema.typography.settings.font_alternative_type.option__2.label"
-          },
-          {
-            "value": "italic",
-            "label": "t:settings_schema.typography.settings.font_alternative_type.option__3.label"
-          },
-          {
-            "value": "bold_n_italic",
-            "label": "t:settings_schema.typography.settings.font_alternative_type.option__4.label"
-          },
-          {
-            "value": "bold_italic",
-            "label": "t:settings_schema.typography.settings.font_alternative_type.option__5.label"
-          },
-          {
-            "value": "all",
-            "label": "t:settings_schema.typography.settings.font_alternative_type.option__6.label"
-          }
-        ]
-      },
+      // {
+      //   "type": "select",
+      //   "id": "font_alternative_type",
+      //   "label": "t:settings_schema.typography.settings.font_alternative_type.label",
+      //   "info": "t:settings_schema.typography.settings.font_alternative_type.info",
+      //   "default": "none",
+      //   "options": [
+      //     {
+      //       "value": "none",
+      //       "label": "t:settings_schema.typography.settings.font_alternative_type.option__1.label"
+      //     },
+      //     {
+      //       "value": "bold",
+      //       "label": "t:settings_schema.typography.settings.font_alternative_type.option__2.label"
+      //     },
+      //     {
+      //       "value": "italic",
+      //       "label": "t:settings_schema.typography.settings.font_alternative_type.option__3.label"
+      //     },
+      //     {
+      //       "value": "bold_n_italic",
+      //       "label": "t:settings_schema.typography.settings.font_alternative_type.option__4.label"
+      //     },
+      //     {
+      //       "value": "bold_italic",
+      //       "label": "t:settings_schema.typography.settings.font_alternative_type.option__5.label"
+      //     },
+      //     {
+      //       "value": "all",
+      //       "label": "t:settings_schema.typography.settings.font_alternative_type.option__6.label"
+      //     }
+      //   ]
+      // },
       {
         "type": "header",
         "content": "t:settings_schema.typography.settings.header__6.content"
