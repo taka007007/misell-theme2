@@ -890,17 +890,17 @@
         "content": "t:settings_schema.typography.settings.header__1.content"
       },
       {
-        "type": "font_picker",
-        "label": "t:settings_schema.typography.settings.font_base.label",
-        "id": "font_base",
-        "default": "basic_commercial_n4"
-      },
-      {
         "type": "checkbox",
         "id": "font_base_apply_to_all",
         "label": "t:settings_schema.typography.settings.font_base_apply_to_all.label",
         "info": "t:settings_schema.typography.settings.font_base_apply_to_all.info",
         "default": true
+      },
+      {
+        "type": "font_picker",
+        "label": "t:settings_schema.typography.settings.font_base.label",
+        "id": "font_base",
+        "default": "basic_commercial_n4"
       },
       {
         "type": "select",
