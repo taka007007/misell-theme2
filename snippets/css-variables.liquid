@@ -62,7 +62,7 @@
         --list-lg-weight: {{ settings.font_base.weight }};
 
         --button-family: {% if settings.font_base_apply_to_all %}var(--base-family){% else %}{{ settings.font_button.family }}, {{ settings.font_button.fallback_families }}{% endif %};
-        --button-style: {{ settings.font_button.style }};
+        {% comment %} --button-style: {{ settings.font_button.style }}; {% endcomment %}
         --button-size: {{ settings.font_size_button }}px;
         --button-line-height: {{ settings.font_size_button | times: 1.076 | round }}px;
         --button-letter-spacing: 0.05em;
