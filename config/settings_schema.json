@@ -917,6 +917,13 @@
         ]
       },
       {
+        "type": "text",
+        "id": "font_base_apply_to_custom",
+        "label": "t:settings_schema.typography.settings.font_base_apply_to_custom.label",
+        "default": "-apple-system,BlinkMacSystemFont,'Helvetica Neue','Segoe UI','Hiragino Kaku Gothic ProN','Hiragino Sans',Arial,Meiryo,sans-serif",
+        "info": "t:settings_schema.typography.settings.font_base_apply_to_custom.info"
+      },
+      {
         "type": "font_picker",
         "label": "t:settings_schema.typography.settings.font_base.label",
         "id": "font_base",
