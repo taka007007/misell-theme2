@@ -674,6 +674,10 @@
           "label": "Use system font",
           "info": "Japanese system font selection [reference site].(https:\/\/saruwakakun.com\/font-family)"
         },
+        "font_heading_apply_to_google_select": {
+          "label": "Google Fonts (Heading)",
+          "info": "The number of font weights varies depending on the font[Google Fonts Official](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
+        },
         "font_heading": {
           "label": "Font family"
         },

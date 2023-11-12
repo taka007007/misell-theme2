@@ -674,6 +674,10 @@
           "label": "システムフォント選択時有効(見出し)",
           "info": "日本語システムフォント選択[参考サイト](https:\/\/saruwakakun.com\/font-family)"
         },
+        "font_heading_apply_to_google_select": {
+          "label": "Googleフォントを選択(見出し)",
+          "info": "フォントによりウエイト数が異なります。詳しくは、[こちら](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
+        },
         "font_heading": {
           "label": "フォントファミリー"
         },
