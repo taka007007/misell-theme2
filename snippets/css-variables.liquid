@@ -14,7 +14,7 @@
         --body-lg-letter-spacing: 0em;
         --body-lg-weight: {{ settings.font_base.weight }};
 
-        --heading-family: {% if settings.font_base_apply_to_all %}var(--base-family){% else %}{{ settings.font_heading.family }}, {{ settings.font_heading.fallback_families }}{% endif %};
+        --heading-family: {% if settings.font_base_apply_to_all %}var(--base-family){% else %}{% if settings.font_heading_apply_to_selection == 'shopify' %}{{ settings.font_heading.family }}{% elsif settings.font_heading_apply_to_selection == 'system' %}{{ settings.font_heading_apply_to_custom }}{% elsif settings.font_heading_apply_to_selection == 'google' %}{{ settings.font_heading_apply_to_google_select }}{% endif %};{% endif %};
         --heading-style: {{ settings.font_heading.style }};
         --heading-weight: {{ settings.font_heading.weight }};
 
