@@ -1147,7 +1147,7 @@
         "type": "select",
         "id": "font_heading_type",
         "label": "t:settings_schema.typography.settings.font_heading_type.label",
-        "info": "t:settings_schema.typography.settings.font_heading_type.info",
+        // "info": "t:settings_schema.typography.settings.font_heading_type.info",
         "default": "none",
         "options": [
           {
