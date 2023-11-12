@@ -1326,10 +1326,10 @@
       //   "type": "header",
       //   "content": "t:settings_schema.typography.settings.header__5.content"
       // },
-      {
-        "type": "paragraph",
-        "content": "t:settings_schema.typography.settings.paragraph__1.content"
-      },
+      // {
+      //   "type": "paragraph",
+      //   "content": "t:settings_schema.typography.settings.paragraph__1.content"
+      // },
       {
         "type": "checkbox",
         "label": "t:settings_schema.typography.settings.font_load_alternative.label",
