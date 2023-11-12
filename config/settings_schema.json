@@ -1322,10 +1322,10 @@
         "label": "t:settings_schema.typography.settings.font_size_menu_mobile.label",
         "default": 15
       },
-      {
-        "type": "header",
-        "content": "t:settings_schema.typography.settings.header__5.content"
-      },
+      // {
+      //   "type": "header",
+      //   "content": "t:settings_schema.typography.settings.header__5.content"
+      // },
       {
         "type": "paragraph",
         "content": "t:settings_schema.typography.settings.paragraph__1.content"
