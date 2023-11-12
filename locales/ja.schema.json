@@ -561,7 +561,7 @@
       "name": "フォントスタイル",
       "settings": {
         "header__1": {
-          "content": "ボディー"
+          "content": "ボディー(本文)"
         },
         "font_all_apply_to_font_feature":{
           "label": "日本語フォントの文字詰め",
