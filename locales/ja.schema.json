@@ -709,6 +709,36 @@
             "label": "すべて"
           }
         },
+        "font_heading_weight": {
+          "label": "ウエイト(見出し)",
+          "option__1": {
+            "label": "100"
+          },
+          "option__2": {
+            "label": "200"
+          },
+          "option__3": {
+            "label": "300"
+          },
+          "option__4": {
+            "label": "400 ノーマル"
+          },
+          "option__5": {
+            "label": "500"
+          },
+          "option__6": {
+            "label": "600"
+          },
+          "option__7": {
+            "label": "700 ボールド"
+          },
+          "option__8": {
+            "label": "800"
+          },
+          "option__9": {
+            "label": "900"
+          }
+        },
         "font_size_h1": {
           "label": "プロモボックスの大きいテキストサイズ・h1(見出し)"
         },
