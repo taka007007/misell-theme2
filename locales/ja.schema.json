@@ -561,7 +561,7 @@
       "name": "フォントスタイル",
       "settings": {
         "header__1": {
-          "content": "ボディー"
+          "content": "ボディー(本文)"
         },
         "font_base": {
           "label": "ベースフォントファミリー"
