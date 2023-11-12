@@ -586,6 +586,10 @@
           "label": "System font (base font)",
           "info": "Japanese system font selection [reference site].(https:\/\/saruwakakun.com\/font-family)"
         },
+        "font_base_apply_to_google_select": {
+          "label": "Google Fonts (base font)",
+          "info": "The number of font weights varies depending on the font[Google Fonts Official](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
+        },
         "font_base_type": {
           "label": "Load additional style",
           "info": "For 'Base' font family",
