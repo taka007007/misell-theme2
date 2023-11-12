@@ -1244,12 +1244,12 @@
         "type": "header",
         "content": "t:settings_schema.typography.settings.header__3.content"
       },
-      {
-        "type": "font_picker",
-        "label": "t:settings_schema.typography.settings.font_button.label",
-        "id": "font_button",
-        "default": "basic_commercial_n4"
-      },
+      // {
+      //   "type": "font_picker",
+      //   "label": "t:settings_schema.typography.settings.font_button.label",
+      //   "id": "font_button",
+      //   "default": "basic_commercial_n4"
+      // },
       {
         "type": "range",
         "id": "font_size_button",
