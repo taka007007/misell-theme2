@@ -564,14 +564,34 @@
           "content": "ボディー"
         },
         "font_base": {
-          "label": "ベースフォントファミリー"
+          "label": "Shopify管理フォント選択時有効(本文)"
         },
         "font_base_apply_to_all": {
-          "label": "サブフォントを除くすべての要素にフォントスタイルを適用する",
-          "info": "見出し・ボタン・メニューなどに違うフォント書体を適用する場合はチェックを外してください。"
+          "label": "全要素にフォントスタイルを適用",
+          "info": "見出し他を別フォントにする場合はチェックを外してください。"
+        },
+        "font_base_apply_to_custom": {
+          "label": "システムフォント選択時有効(本文)",
+          "info": "日本語システムフォント選択[参考サイト](https:\/\/saruwakakun.com\/font-family)"
+        },
+        "font_base_apply_to_google_select": {
+          "label": "Googleフォント選択時有効(本文)",
+          "info": "フォントによりウエイト数が異なります。[Google Fonts公式](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
+        },
+        "font_base_apply_to_selection": {
+          "label": "フォントの選択(本文)",
+          "option__1": {
+            "label": "システムフォント(高速)"
+          },
+          "option__2": {
+            "label": "Googleフォント"
+          },
+          "option__3": {
+            "label": "Shopify管理フォント"
+          }
         },
         "font_base_type": {
-          "label": "追加スタイルの適用",
+          "label": "スタイル(本文)",
           "info": "ベースフォントファミリー",
           "option__1": {
             "label": "なし"
@@ -601,17 +621,68 @@
             "label": "すべて"
           }
         },
+        "font_base_weight": {
+          "label": "ウエイト(本文)",
+          "info": "ベースフォントファミリーに適用",
+          "option__1": {
+            "label": "100"
+          },
+          "option__2": {
+            "label": "200"
+          },
+          "option__3": {
+            "label": "300"
+          },
+          "option__4": {
+            "label": "400 ノーマル"
+          },
+          "option__5": {
+            "label": "500"
+          },
+          "option__6": {
+            "label": "600"
+          },
+          "option__7": {
+            "label": "700 ボールド"
+          },
+          "option__8": {
+            "label": "800"
+          },
+          "option__9": {
+            "label": "900"
+          }
+        },
         "font_size_body": {
           "label": "ベースフォントサイズ"
         },
         "header__2": {
           "content": "見出し"
         },
+        "font_heading_apply_to_selection": {
+          "label": "フォントの選択(見出し)",
+          "option__1": {
+            "label": "システムフォント(高速)"
+          },
+          "option__2": {
+            "label": "Googleフォント"
+          },
+          "option__3": {
+            "label": "Shopify管理フォント"
+          }
+        },
+        "font_heading_custom": {
+          "label": "システムフォント選択時有効(見出し)",
+          "info": "日本語システムフォント選択[参考サイト](https:\/\/saruwakakun.com\/font-family)"
+        },
+        "font_heading_apply_to_google_select": {
+          "label": "Googleフォントを選択(見出し)",
+          "info": "フォントによりウエイト数が異なります。詳しくは、[こちら](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
+        },
         "font_heading": {
-          "label": "フォントファミリー"
+          "label": "Shopify管理フォント(見出し)"
         },
         "font_heading_type": {
-          "label": "追加スタイルの適用",
+          "label": "スタイル(見出し)",
           "info": "見出しのフォントファミリーに適用",
           "option__1": {
             "label": "なし"
@@ -636,6 +707,36 @@
           },
           "option__8": {
             "label": "すべて"
+          }
+        },
+        "font_heading_weight": {
+          "label": "ウエイト(見出し)",
+          "option__1": {
+            "label": "100"
+          },
+          "option__2": {
+            "label": "200"
+          },
+          "option__3": {
+            "label": "300"
+          },
+          "option__4": {
+            "label": "400 ノーマル"
+          },
+          "option__5": {
+            "label": "500"
+          },
+          "option__6": {
+            "label": "600"
+          },
+          "option__7": {
+            "label": "700 ボールド"
+          },
+          "option__8": {
+            "label": "800"
+          },
+          "option__9": {
+            "label": "900"
           }
         },
         "font_size_h1": {

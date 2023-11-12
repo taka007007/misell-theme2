@@ -564,11 +564,31 @@
           "content": "Body"
         },
         "font_base": {
-          "label": "Base font family"
+          "label": "Shopify managed Base font family"
         },
         "font_base_apply_to_all": {
           "label": "Apply font to all elements ignoring everything except alternate font",
           "info": "Unclick if you want to choose a different font for headings, buttons, inputs or menu"
+        },
+        "font_base_apply_to_selection": {
+          "label": "Base font selection",
+          "option__1": {
+            "label": "System font (fast display)"
+          },
+          "option__2": {
+            "label": "Google Fonts"
+          },
+          "option__3": {
+            "label": "Shopify Management Font"
+          }
+        },
+        "font_base_apply_to_custom": {
+          "label": "System font (base font)",
+          "info": "Japanese system font selection [reference site].(https:\/\/saruwakakun.com\/font-family)"
+        },
+        "font_base_apply_to_google_select": {
+          "label": "Google Fonts (base font)",
+          "info": "The number of font weights varies depending on the font[Google Fonts Official](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
         },
         "font_base_type": {
           "label": "Load additional style",
@@ -601,14 +621,65 @@
             "label": "All"
           }
         },
+        "font_base_weight": {
+          "label": "Load additional style",
+          "info": "For 'Base' font family",
+          "option__1": {
+            "label": "100"
+          },
+          "option__2": {
+            "label": "200"
+          },
+          "option__3": {
+            "label": "300"
+          },
+          "option__4": {
+            "label": "400 Normal"
+          },
+          "option__5": {
+            "label": "500"
+          },
+          "option__6": {
+            "label": "600"
+          },
+          "option__7": {
+            "label": "700 Bold"
+          },
+          "option__8": {
+            "label": "800"
+          },
+          "option__9": {
+            "label": "900"
+          }
+        },
         "font_size_body": {
           "label": "Base font size"
         },
         "header__2": {
           "content": "Heading"
         },
+        "font_heading_apply_to_selection": {
+          "label": "Heading font selection",
+          "option__1": {
+            "label": "System font (fast display)"
+          },
+          "option__2": {
+            "label": "Google Fonts"
+          },
+          "option__3": {
+            "label": "Shopify Management Font"
+          }
+        },
+        "font_heading_custom": {
+          "label": "Use system font",
+          "info": "Japanese system font selection [reference site].(https:\/\/saruwakakun.com\/font-family)"
+        },
+        "font_heading_apply_to_google_select": {
+          "label": "Google Fonts (Heading)",
+          "info": "The number of font weights varies depending on the font[Google Fonts Official](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
+        },
         "font_heading": {
-          "label": "Font family"
+          "label": "Shopify Management Font family"
         },
         "font_heading_type": {
           "label": "Load additional style",
@@ -636,6 +707,36 @@
           },
           "option__8": {
             "label": "All"
+          }
+        },
+        "font_heading_weight": {
+          "label": "Load additional style",
+          "option__1": {
+            "label": "100"
+          },
+          "option__2": {
+            "label": "200"
+          },
+          "option__3": {
+            "label": "300"
+          },
+          "option__4": {
+            "label": "400 Normal"
+          },
+          "option__5": {
+            "label": "500"
+          },
+          "option__6": {
+            "label": "600"
+          },
+          "option__7": {
+            "label": "700 Bold"
+          },
+          "option__8": {
+            "label": "800"
+          },
+          "option__9": {
+            "label": "900"
           }
         },
         "font_size_h1": {
