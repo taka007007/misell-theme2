@@ -1046,6 +1046,26 @@
         "content": "t:settings_schema.typography.settings.header__2.content"
       },
       {
+        "type": "radio",
+        "id": "font_heading_apply_to_selection",
+        "label": "t:settings_schema.typography.settings.font_heading_apply_to_selection.label",
+        "default": "system",
+        "options": [
+          {
+            "value": "system",
+            "label": "t:settings_schema.typography.settings.font_heading_apply_to_selection.option__1.label"
+          },
+          {
+            "value": "google",
+            "label": "t:settings_schema.typography.settings.font_heading_apply_to_selection.option__2.label"
+          },
+          {
+            "value": "shopify",
+            "label": "t:settings_schema.typography.settings.font_heading_apply_to_selection.option__3.label"
+          }
+        ]
+      },
+      {
         "type": "font_picker",
         "label": "t:settings_schema.typography.settings.font_heading.label",
         "id": "font_heading",
