@@ -1673,7 +1673,7 @@
           "label": "数量インプットを有効化"
         },
         "cart_popup_show_checkout_confirmation_checkbox": {
-          "label": "チェックアウト確認情報を表示"
+          "label": "利用規約 に同意します を表示"
         },
         "cart_popup_show_taxes_and_shipping_information": {
           "label": "配送と税金の情報を表示"
