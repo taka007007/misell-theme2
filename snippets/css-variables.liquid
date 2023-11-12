@@ -1,6 +1,7 @@
 <style>
     :root {
         --base-family: {% if settings.font_base_apply_to_selection == 'shopify' %}{{ settings.font_base.family }}{% elsif settings.font_base_apply_to_selection == 'system' %}{{ settings.font_base_apply_to_custom }}{% elsif settings.font_base_apply_to_selection == 'google' %}{{ settings.font_base_apply_to_google_select }}{% endif %};
+        --base-style: {{ settings.font_base_type }};
 
         --alternative-family: {{ settings.font_alternative.family }}, {{ settings.font_alternative.fallback_families }};
 
