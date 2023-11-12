@@ -564,7 +564,7 @@
           "content": "ボディー"
         },
         "font_base": {
-          "label": "ベースフォントファミリー"
+          "label": "Shopify管理フォント選択時有効(本文)"
         },
         "font_base_apply_to_all": {
           "label": "全要素にフォントスタイルを適用",

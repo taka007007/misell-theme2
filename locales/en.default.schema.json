@@ -564,7 +564,7 @@
           "content": "Body"
         },
         "font_base": {
-          "label": "Base font family"
+          "label": "Shopify managed Base font family"
         },
         "font_base_apply_to_all": {
           "label": "Apply font to all elements ignoring everything except alternate font",
