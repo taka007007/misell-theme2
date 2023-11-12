@@ -1155,32 +1155,8 @@
             "label": "t:settings_schema.typography.settings.font_heading_type.option__1.label"
           },
           {
-            "value": "semi_bold",
-            "label": "t:settings_schema.typography.settings.font_heading_type.option__2.label"
-          },
-          {
-            "value": "bold",
-            "label": "t:settings_schema.typography.settings.font_heading_type.option__3.label"
-          },
-          {
             "value": "italic",
             "label": "t:settings_schema.typography.settings.font_heading_type.option__4.label"
-          },
-          {
-            "value": "semi_bold_n_italic",
-            "label": "t:settings_schema.typography.settings.font_heading_type.option__5.label"
-          },
-          {
-            "value": "bold_n_italic",
-            "label": "t:settings_schema.typography.settings.font_heading_type.option__6.label"
-          },
-          {
-            "value": "bold_italic",
-            "label": "t:settings_schema.typography.settings.font_heading_type.option__7.label"
-          },
-          {
-            "value": "all",
-            "label": "t:settings_schema.typography.settings.font_heading_type.option__8.label"
           }
         ]
       },
