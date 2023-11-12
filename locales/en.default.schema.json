@@ -670,6 +670,10 @@
             "label": "Shopify Management Font"
           }
         },
+        "font_heading_custom": {
+          "label": "Use system font",
+          "info": "Japanese system font selection [reference site].(https:\/\/saruwakakun.com\/font-family)"
+        },
         "font_heading": {
           "label": "Font family"
         },

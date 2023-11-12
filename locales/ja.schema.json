@@ -670,6 +670,10 @@
             "label": "Shopify管理フォント"
           }
         },
+        "font_heading_custom": {
+          "label": "システムフォント選択時有効(見出し)",
+          "info": "日本語システムフォント選択[参考サイト](https:\/\/saruwakakun.com\/font-family)"
+        },
         "font_heading": {
           "label": "フォントファミリー"
         },
