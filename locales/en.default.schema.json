@@ -570,6 +570,18 @@
           "label": "Apply font to all elements ignoring everything except alternate font",
           "info": "Unclick if you want to choose a different font for headings, buttons, inputs or menu"
         },
+        "font_base_apply_to_selection": {
+          "label": "Base font selection",
+          "option__1": {
+            "label": "System font (fast display)"
+          },
+          "option__2": {
+            "label": "Google Fonts"
+          },
+          "option__3": {
+            "label": "Shopify Management Font"
+          }
+        },
         "font_base_type": {
           "label": "Load additional style",
           "info": "For 'Base' font family",
