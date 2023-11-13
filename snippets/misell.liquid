@@ -58,7 +58,7 @@
     <script src="https://unpkg.com/budoux/bundle/budoux-ja.min.js"></script>
     <script>
       document.addEventListener('DOMContentLoaded', () => {
-        const headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+        const headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6, p.h1, p.h2, p.h3, p.h4, p.h5, p.h6');
         headers.forEach((header) => {
           const content = header.innerHTML;
           header.innerHTML = `<budoux-ja>${content}</budoux-ja>`;
