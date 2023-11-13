@@ -567,7 +567,7 @@
           "label": "Shopify管理フォント選択時有効(本文)"
         },
         "font_base_apply_to_all": {
-          "label": "全要素にフォントスタイルを適用",
+          "label": "全要素にフォントの選択(本文)を適用",
           "info": "見出し他を別フォントにする場合はチェックを外してください。"
         },
         "font_base_apply_to_custom": {
