@@ -56,5 +56,15 @@
   {% endif %}
   {% if settings.font_all_apply_to_budoux %}
     <script src="https://unpkg.com/budoux/bundle/budoux-ja.min.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+        headers.forEach((header) => {
+          const content = header.innerHTML;
+          header.innerHTML = `<budoux-ja>${content}</budoux-ja>`;
+        });
+      });
+    </script>
+
   {% endif %}
   {{ 'misell-custom.css' | asset_url | stylesheet_tag }}
