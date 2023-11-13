@@ -579,7 +579,7 @@
         },
         "font_base_apply_to_custom": {
           "label": "システムフォント選択時有効(本文)",
-          "info": "日本語システムフォント選択[参考サイト](https:\/\/saruwakakun.com\/font-family)"
+          "info": "日本語システムフォント選択[参考サイト](https:\/\/saruwakakun.com\/font-family)　font-family:〇〇〇;の〇の名前部分のみ入力してください。"
         },
         "font_base_apply_to_google_select": {
           "label": "Googleフォント選択時有効(本文)",
