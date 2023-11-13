@@ -1,0 +1,70 @@
+{% if font_family == 'Noto Sans JP', sans-serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;700&display=swap');
+  </style>
+  {% elsif font_family == 'Noto Serif JP', serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;700&display=swap');  </style>
+  {% elsif font_family == 'Zen Kaku Gothic New', sans-serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@300;400;700&display=swap');
+  </style>
+  {% elsif font_family == 'Zen Maru Gothic', sans-serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@300;400;700&display=swap');
+  </style>
+  {% elsif font_family == 'Zen Old Mincho', serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;700&display=swap');
+  </style>
+{% elsif font_family == 'M PLUS 1p', sans-serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;700&display=swap');
+  </style>
+{% elsif font_family == 'M PLUS Rounded 1c', sans-serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;700&display=swap');
+  </style>
+{% elsif font_family == 'Shippori Mincho', serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;700&display=swap');
+  </style>
+{% elsif font_family == 'Sawarabi Gothic', sans-serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
+  </style>
+{% elsif font_family == 'Sawarabi Mincho', serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Sawarabi+Mincho&display=swap');
+  </style>
+{% elsif font_family == 'Hina Mincho', serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Hina+Mincho&display=swap');
+  </style>
+{% elsif font_family == 'Kaisei Opti', sans-serif %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Kaisei+Opti:wght@400;700&display=swap');
+  </style>
+{% elsif font_family == 'Kiwi Maru', display %}
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@300;400;500&display=swap');
+  </style>
+  {% elsif font_family == 'Kosugi Maru', sans-serif %}
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&display=swap');
+  </style>
+  {% endif %}
+  {% if settings.font_all_apply_to_budoux %}
+    <script src="https://unpkg.com/budoux/bundle/budoux-ja.min.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const headers = document.querySelectorAll('h1, h2, h3, h4, h5, h6, p.h1, p.h2, p.h3, p.h4, p.h5, p.h6');
+        headers.forEach((header) => {
+          const content = header.innerHTML;
+          header.innerHTML = `<budoux-ja>${content}</budoux-ja>`;
+        });
+      });
+    </script>
+
+  {% endif %}
+  {{ 'misell-custom.css' | asset_url | stylesheet_tag }}

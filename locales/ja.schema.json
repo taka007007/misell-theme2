@@ -561,7 +561,14 @@
       "name": "フォントスタイル",
       "settings": {
         "header__1": {
-          "content": "ボディー"
+          "content": "ボディー(本文)"
+        },
+        "font_all_apply_to_font_feature":{
+          "label": "日本語フォントの文字詰め",
+          "info": "'palt'：仮名・カッコ・句読点の詰め 'pwid'：仮名・カッコの詰め　　-'pkna'：仮名のみ詰め",
+          "option__1": {
+            "label": "なし"
+          }
         },
         "font_base": {
           "label": "Shopify管理フォント選択時有効(本文)"
@@ -657,6 +664,9 @@
         },
         "header__2": {
           "content": "見出し"
+        },
+        "font_all_apply_to_budoux": {
+          "label": "日本語の自動改行を有効化"
         },
         "font_heading_apply_to_selection": {
           "label": "フォントの選択(見出し)",
@@ -1663,7 +1673,7 @@
           "label": "数量インプットを有効化"
         },
         "cart_popup_show_checkout_confirmation_checkbox": {
-          "label": "チェックアウト確認情報を表示"
+          "label": "利用規約 に同意します を表示"
         },
         "cart_popup_show_taxes_and_shipping_information": {
           "label": "配送と税金の情報を表示"

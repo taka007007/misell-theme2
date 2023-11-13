@@ -1,68 +1,70 @@
 <style>
     :root {
-        --base-family: {{ settings.font_base.family }}, {{ settings.font_base.fallback_families }};
-        --base-style: {{ settings.font_base.style }};
+        --base-family: {% if settings.font_base_apply_to_selection == 'shopify' %}{{ settings.font_base.family }}{% elsif settings.font_base_apply_to_selection == 'system' %}{{ settings.font_base_apply_to_custom }}{% elsif settings.font_base_apply_to_selection == 'google' %}{{ settings.font_base_apply_to_google_select }}{% endif %};
+        --base-style: {{ settings.font_base_type }};
 
         --alternative-family: {{ settings.font_alternative.family }}, {{ settings.font_alternative.fallback_families }};
 
         --body-size: {{ settings.font_size_body }}px;
         --body-line-height: {{ settings.font_size_body | times: 1.307 | round }}px;
         --body-letter-spacing: 0em;
-        --body-weight: {{ settings.font_base.weight }};
+        --body-weight: {{ settings.font_base_weight }};
 
         --body-lg-size: {{ settings.font_size_body | times: 1.153 | round }}px;
         --body-lg-line-height: {{ settings.font_size_body | times: 1.153 | round | times: 1.533 | round }}px;
         --body-lg-letter-spacing: 0em;
-        --body-lg-weight: {{ settings.font_base.weight }};
+        --body-lg-weight: {{ settings.font_base_weight }};
 
-        --heading-family: {% if settings.font_base_apply_to_all %}var(--base-family){% else %}{{ settings.font_heading.family }}, {{ settings.font_heading.fallback_families }}{% endif %};
-        --heading-style: {{ settings.font_heading.style }};
-        --heading-weight: {{ settings.font_heading.weight }};
+        {% if settings.font_all_apply_to_font_feature != "'initial'" %}font-feature-settings: {{ settings.font_all_apply_to_font_feature }};{% endif %}
+
+        --heading-family: {% if settings.font_base_apply_to_all %}var(--base-family){% else %}{% if settings.font_heading_apply_to_selection == 'shopify' %}{{ settings.font_heading.family }}{% elsif settings.font_heading_apply_to_selection == 'system' %}{{ settings.font_heading_apply_to_custom }}{% elsif settings.font_heading_apply_to_selection == 'google' %}{{ settings.font_heading_apply_to_google_select }}{% endif %};{% endif %};
+        --heading-style: {{ settings.font_heading_type }};
+        --heading-weight: {{ settings.font_heading_weight }};
 
         --h1-size: {{ settings.font_size_h1 }}px;
         --h1-line-height: {{ settings.font_size_h1 | times: 1.09 | round }}px;
         --h1-letter-spacing: 0.05em;
-        --h1-weight: {{ settings.font_heading.weight }};
+        --h1-weight: {{ settings.font_heading_weight }};
 
         --h2-size: {{ settings.font_size_h2 }}px;
         --h2-line-height: {{ settings.font_size_h2 | times: 1.093 | round }}px;
         --h2-letter-spacing: 0.05em;
-        --h2-weight: {{ settings.font_heading.weight }};
+        --h2-weight: {{ settings.font_heading_weight }};
 
         --h3-size: {{ settings.font_size_h3 }}px;
         --h3-line-height: {{ settings.font_size_h3 | times: 1.291 | round }}px;
         --h3-letter-spacing: 0em;
-        --h3-weight: {{ settings.font_heading.weight }};
+        --h3-weight: {{ settings.font_heading_weight }};
 
         --h4-size: {{ settings.font_size_h4 }}px;
         --h4-line-height: {{ settings.font_size_h4 | times: 1.333 | round }}px;
         --h4-letter-spacing: 0em;
-        --h4-weight: {{ settings.font_heading.weight }};
+        --h4-weight: {{ settings.font_heading_weight }};
 
         --h5-size: {{ settings.font_size_h5 }}px;
         --h5-line-height: {{ settings.font_size_h5 | times: 1.4 | round }}px;
         --h5-letter-spacing: 0.05em;
-        --h5-weight: {{ settings.font_heading.weight }};
+        --h5-weight: {{ settings.font_heading_weight }};
 
         --h6-size: {{ settings.font_size_h6 }}px;
         --h6-line-height: {{ settings.font_size_h6 | times: 1.307 | round }}px;
         --h6-letter-spacing: 0em;
-        --h6-weight: {{ settings.font_heading.weight }};
+        --h6-weight: {{ settings.font_heading_weight }};
 
         --icons-size: 20px;
 
         --list-size: {{ settings.font_size_body | times: 1 | round }}px;
         --list-line-height: {{ settings.font_size_body | times: 1 | round | times: 1.796 | round }}px;
         --list-letter-spacing: 0em;
-        --list-weight: {{ settings.font_base.weight }};
+        --list-weight: {{ settings.font_base_weight }};
 
         --list-lg-size: {{ settings.font_size_body | times: 1.153 | round }}px;
         --list-lg-line-height: {{ settings.font_size_body | times: 1.153 | round | times: 1.4 | round }}px;
         --list-lg-letter-spacing: 0em;
-        --list-lg-weight: {{ settings.font_base.weight }};
+        --list-lg-weight: {{ settings.font_base_weight }};
 
         --button-family: {% if settings.font_base_apply_to_all %}var(--base-family){% else %}{{ settings.font_button.family }}, {{ settings.font_button.fallback_families }}{% endif %};
-        --button-style: {{ settings.font_button.style }};
+        {% comment %} --button-style: {{ settings.font_button.style }}; {% endcomment %}
         --button-size: {{ settings.font_size_button }}px;
         --button-line-height: {{ settings.font_size_button | times: 1.076 | round }}px;
         --button-letter-spacing: 0.05em;

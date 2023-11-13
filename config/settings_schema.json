@@ -886,15 +886,33 @@
     "name": "t:settings_schema.typography.name",
     "settings": [
       {
-        "type": "header",
-        "content": "t:settings_schema.typography.settings.header__1.content"
+        "type": "select",
+        "id": "font_all_apply_to_font_feature",
+        "label": "t:settings_schema.typography.settings.font_all_apply_to_font_feature.label",
+        "default":  "'initial'",
+        "info": "t:settings_schema.typography.settings.font_all_apply_to_font_feature.info",
+        "options":[
+          {
+            "value": "'initial'",
+            "label": "t:settings_schema.typography.settings.font_all_apply_to_font_feature.option__1.label"
+          },
+          {
+            "value": "'palt'",
+            "label": "palt"
+          },
+          {
+            "value": "'pwid'",
+            "label": "pwid"
+          },
+          {
+            "value": "'pkna'",
+            "label": "pkna"
+          }
+        ]
       },
       {
-        "type": "checkbox",
-        "id": "font_base_apply_to_all",
-        "label": "t:settings_schema.typography.settings.font_base_apply_to_all.label",
-        "info": "t:settings_schema.typography.settings.font_base_apply_to_all.info",
-        "default": true
+        "type": "header",
+        "content": "t:settings_schema.typography.settings.header__1.content"
       },
       {
         "type": "radio",
@@ -915,6 +933,13 @@
             "label": "t:settings_schema.typography.settings.font_base_apply_to_selection.option__3.label"
           }
         ]
+      },
+      {
+        "type": "checkbox",
+        "id": "font_base_apply_to_all",
+        "label": "t:settings_schema.typography.settings.font_base_apply_to_all.label",
+        "info": "t:settings_schema.typography.settings.font_base_apply_to_all.info",
+        "default": true
       },
       {
         "type": "text",
@@ -999,10 +1024,10 @@
         "id": "font_base_type",
         "label": "t:settings_schema.typography.settings.font_base_type.label",
         // "info": "t:settings_schema.typography.settings.font_base_type.info",
-        "default": "none",
+        "default": "normal",
         "options": [
           {
-            "value": "none",
+            "value": "normal",
             "label": "t:settings_schema.typography.settings.font_base_type.option__1.label"
           },
           {
@@ -1044,6 +1069,12 @@
       {
         "type": "header",
         "content": "t:settings_schema.typography.settings.header__2.content"
+      },
+      {
+        "type": "checkbox",
+        "id": "font_all_apply_to_budoux",
+        "label": "t:settings_schema.typography.settings.font_all_apply_to_budoux.label",
+        "default": true
       },
       {
         "type": "radio",
@@ -1148,10 +1179,10 @@
         "id": "font_heading_type",
         "label": "t:settings_schema.typography.settings.font_heading_type.label",
         // "info": "t:settings_schema.typography.settings.font_heading_type.info",
-        "default": "none",
+        "default": "normal",
         "options": [
           {
-            "value": "none",
+            "value": "normal",
             "label": "t:settings_schema.typography.settings.font_heading_type.option__1.label"
           },
           {
