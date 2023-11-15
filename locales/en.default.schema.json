@@ -28,7 +28,7 @@
           "content": "c) Static sections per page - unique features per page type, e.g.: 'Product Page' and 'Related product carousel' sections for product pages or 'Sidebar' and 'Head' sections for collection pages. !!! _Navigate to page_ !!! and check the Sections tab."
         },
         "paragraph__7": {
-          "content": "Please note, the list of sections in the Sections tab will be different depending on the current page. You can navigate to a needed page via store preview or using Shopify page type switcher. Please check the [Sections and theme settings](https:\/\/help.shopify.com\/en\/manual\/using-themes\/change-the-layout\/theme-settings\/sections-and-settings) Shopify help page for more details."
+          "content": "Please note, the list of sections in the Sections tab will be different depending on the current page. You can navigate to a needed page via store preview or using Shopify page type switcher. Please check the [Sections and theme settings](https://help.shopify.com/en/manual/using-themes/change-the-layout/theme-settings/sections-and-settings) Shopify help page for more details."
         },
         "header__3": {
           "content": "Change text"
@@ -40,22 +40,22 @@
           "content": "Resources"
         },
         "paragraph__9": {
-          "content": "[Shopify help pages](https:\/\/help.shopify.com\/en\/manual\/intro-to-shopify\/initial-setup\/setup-getting-started)"
+          "content": "[Shopify help pages](https://help.shopify.com/en/manual/intro-to-shopify/initial-setup/setup-getting-started)"
         },
         "paragraph__10": {
-          "content": "[MISELL FAQ](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/developer\/)"
+          "content": "[MISELL FAQ](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/developer/)"
         },
         "paragraph__11": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+          "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
         },
         "paragraph__12": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         },
         "header__5": {
           "content": "Support"
         },
         "paragraph__13": {
-          "content": "[Create a new ticket](https:\/\/shop.misell-theme.com\/)"
+          "content": "[Create a new ticket](https://shop.misell-theme.com/)"
         },
         "paragraph__14": {
           "content": "Please note, the response time can be up to 1 business day. Theme support does not include Customization services, Installation services."
@@ -64,7 +64,7 @@
           "content": "Do You Like MISELL?"
         },
         "paragraph__15": {
-          "content": "If you like our theme, please support us with a five stars review at [Misell](https:\/\/shop.misell-theme.com\/). Thank you :)"
+          "content": "If you like our theme, please support us with a five stars review at [Misell](https://shop.misell-theme.com/). Thank you :)"
         }
       }
     },
@@ -73,7 +73,7 @@
       "settings": {
         "purchase_code": {
           "label": "Purchase code",
-          "info": "You can find a purchase code at misell-theme  [download](https:\/\/shop.misell-theme.com\/)."
+          "info": "You can find a purchase code at misell-theme  [download](https://shop.misell-theme.com/)."
         },
         "presentation_enable": {
           "label": "Enable a gear wheel popup (Presentation mode)",
@@ -83,7 +83,7 @@
           "content": "Info"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -107,7 +107,7 @@
         },
         "logo_svg_file": {
           "label": "Logo file name",
-          "info": "Path: snippets\/[svg-file-name].liquid"
+          "info": "Path: snippets/[svg-file-name].liquid"
         },
         "logo_image": {
           "label": "Logo image",
@@ -121,7 +121,7 @@
         },
         "logo_mobile_svg_file": {
           "label": "Mobile logo file name",
-          "info": "Path: snippets\/[svg-file-name].liquid"
+          "info": "Path: snippets/[svg-file-name].liquid"
         },
         "logo_mobile_image": {
           "label": "Mobile logo image",
@@ -135,7 +135,7 @@
         },
         "logo_sticky_svg_file": {
           "label": "Sticky logo file name",
-          "info": "Path: snippets\/[svg-file-name].liquid"
+          "info": "Path: snippets/[svg-file-name].liquid"
         },
         "logo_sticky_image": {
           "label": "Sticky logo image",
@@ -149,7 +149,7 @@
         },
         "logo_transparent_svg_file": {
           "label": "Transparent header logo file name",
-          "info": "Path: snippets\/[svg-file-name].liquid"
+          "info": "Path: snippets/[svg-file-name].liquid"
         },
         "logo_transparent_image": {
           "label": "Transparent header logo image",
@@ -163,7 +163,7 @@
         },
         "logo_footer_svg_file": {
           "label": "Footer logo file name",
-          "info": "Path: snippets\/[svg-file-name].liquid"
+          "info": "Path: snippets/[svg-file-name].liquid"
         },
         "logo_footer_image": {
           "label": "Footer logo image",
@@ -177,7 +177,7 @@
         },
         "logo_footer_mobile_svg_file": {
           "label": "Mobile footer logo file name",
-          "info": "Path: snippets\/[svg-file-name].liquid"
+          "info": "Path: snippets/[svg-file-name].liquid"
         },
         "logo_footer_mobile_image": {
           "label": "Mobile footer logo image",
@@ -197,7 +197,7 @@
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -329,7 +329,7 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -553,7 +553,7 @@
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -563,7 +563,7 @@
         "header__1": {
           "content": "Body"
         },
-        "font_all_apply_to_font_feature":{
+        "font_all_apply_to_font_feature": {
           "label": "Japanese font kerning",
           "info": "'palt': kerning of kana, parentheses, and punctuation 'pwid': kerning of kana and parentheses 'pkna': kerning of kana only",
           "option__1": {
@@ -591,11 +591,11 @@
         },
         "font_base_apply_to_custom": {
           "label": "System font (base font)",
-          "info": "Japanese system font selection [reference site].(https:\/\/saruwakakun.com\/font-family)"
+          "info": "Japanese system font selection [reference site].(https://saruwakakun.com/font-family)"
         },
         "font_base_apply_to_google_select": {
           "label": "Google Fonts (base font)",
-          "info": "The number of font weights varies depending on the font[Google Fonts Official](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
+          "info": "The number of font weights varies depending on the font[Google Fonts Official](https://fonts.google.com/?subset=japanese&noto.script=Hira)"
         },
         "font_base_type": {
           "label": "Load additional style",
@@ -665,6 +665,9 @@
         "header__2": {
           "content": "Heading"
         },
+        "font_uppercase": {
+          "label": "Enable uppercase"
+        },
         "font_all_apply_to_budoux": {
           "label": "Enable automatic sentence break for Japanese"
         },
@@ -682,11 +685,11 @@
         },
         "font_heading_custom": {
           "label": "Use system font",
-          "info": "Japanese system font selection [reference site].(https:\/\/saruwakakun.com\/font-family)"
+          "info": "Japanese system font selection [reference site].(https://saruwakakun.com/font-family)"
         },
         "font_heading_apply_to_google_select": {
           "label": "Google Fonts (Heading)",
-          "info": "The number of font weights varies depending on the font[Google Fonts Official](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
+          "info": "The number of font weights varies depending on the font[Google Fonts Official](https://fonts.google.com/?subset=japanese&noto.script=Hira)"
         },
         "font_heading": {
           "label": "Shopify Management Font family"
@@ -837,7 +840,7 @@
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -889,7 +892,7 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -911,7 +914,7 @@
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -984,7 +987,7 @@
         },
         "product_options_type_circle_color": {
           "label": "Options type 'Circle color'",
-          "info": "Separator is '|'. Show product option as circle with color background. Option name should have a [CSS color value](https:\/\/www.w3schools.com\/cssref\/css_colors.asp). You can configure custom values at Sections -> Product Swatches"
+          "info": "Separator is '|'. Show product option as circle with color background. Option name should have a [CSS color value](https://www.w3schools.com/cssref/css_colors.asp). You can configure custom values at Sections -> Product Swatches"
         },
         "product_options_type_circle_image": {
           "label": "Options type 'Circle image'",
@@ -1010,10 +1013,10 @@
           "content": "Support"
         },
         "paragraph__3": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+          "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
         },
         "paragraph__4": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -1049,10 +1052,10 @@
           "content": "Auto - if you choose this option, ignore the previous option of the image height (in % of the width). The image container and the image size are generated based on source image dimensions."
         },
         "paragraph__2": {
-          "content": "Contain - CSS object-fit = contain. If you choose this option, the image will look like: [object-fit demo](https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/object-fit)."
+          "content": "Contain - CSS object-fit = contain. If you choose this option, the image will look like: [object-fit demo](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)."
         },
         "paragraph__3": {
-          "content": "Cover - CSS object-fit = cover. If you choose this option, the image will look like [object-fit demo](https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/CSS\/object-fit)."
+          "content": "Cover - CSS object-fit = cover. If you choose this option, the image will look like [object-fit demo](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)."
         },
         "paragraph__4": {
           "content": "Stretch by width - in this option, the image width fits the container width. It is centered vertically. If the image height is more than the container, cut the image from the top and the bottom. If the image height is less than the container, add white space at the top and the bottom of the image."
@@ -1146,7 +1149,7 @@
         },
         "product_collection_show_reviews": {
           "label": "Show product reviews",
-          "info": "You have to install product reviews app. At our demo, we use a free [Product Reviews](https:\/\/apps.shopify.com\/product-reviews) app"
+          "info": "You have to install product reviews app. At our demo, we use a free [Product Reviews](https://apps.shopify.com/product-reviews) app"
         },
         "product_collection_hide_reviews_counter": {
           "label": "Hide reviews counter"
@@ -1183,7 +1186,7 @@
           "content": "Support"
         },
         "paragraph__6": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -1318,7 +1321,7 @@
           "content": "Reviews"
         },
         "paragraph__2": {
-          "content": "You have to install product reviews app. At our demo, we use a free [Product Reviews](https:\/\/apps.shopify.com\/product-reviews) app"
+          "content": "You have to install product reviews app. At our demo, we use a free [Product Reviews](https://apps.shopify.com/product-reviews) app"
         },
         "product_info_hide_reviews_counter": {
           "label": "Hide reviews counter"
@@ -1386,7 +1389,7 @@
         },
         "product_delivery_countdown_delivery_format": {
           "label": "Format of delivery countdown date",
-          "info": "Example: Day DD\/MM\/YYYY"
+          "info": "Example: Day DD/MM/YYYY"
         },
         "product_delivery_countdown_delivery_excludes": {
           "label": "Exclude days of the week",
@@ -1459,7 +1462,7 @@
         },
         "product_info_show_gift_card_recipient": {
           "label": "Show recipient information form for gift card products",
-          "info": "Gift card products can optionally be sent direct to a recipient on a scheduled date along with a personal message. [Learn more](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
+          "info": "Gift card products can optionally be sent direct to a recipient on a scheduled date along with a personal message. [Learn more](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
         },
         "product_info_show_button_add_to_wishlist": {
           "label": "Show button 'Add to wishlist'"
@@ -1508,7 +1511,7 @@
         },
         "product_footbar_show_reviews": {
           "label": "Show product reviews",
-          "info": "You have to install product reviews app. At our demo, we use a free [Product Reviews](https:\/\/apps.shopify.com\/product-reviews) app"
+          "info": "You have to install product reviews app. At our demo, we use a free [Product Reviews](https://apps.shopify.com/product-reviews) app"
         },
         "product_footbar_show_options": {
           "label": "Show options (variants)"
@@ -1561,7 +1564,7 @@
           "content": "Support"
         },
         "paragraph__6": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -1573,13 +1576,13 @@
         },
         "search_predictive_enabled": {
           "label": "Enable product suggestions",
-          "info": "Default search does not support all languages. Turn off this option to switch to a simplified search type. [List of supported languages](https:\/\/shopify.dev\/docs\/themes\/ajax-api\/reference\/predictive-search)"
+          "info": "Default search does not support all languages. Turn off this option to switch to a simplified search type. [List of supported languages](https://shopify.dev/docs/themes/ajax-api/reference/predictive-search)"
         },
         "header__1": {
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -1590,7 +1593,7 @@
           "content": "Currency"
         },
         "paragraph__1": {
-          "content": "By default theme shows currencies configured at [Shopify Payments](https:\/\/help.shopify.com\/en\/manual\/payments\/shopify-payments\/multi-currency). If you want to show unsupported currencies by Shopify Payments - enable the info currency conversion below."
+          "content": "By default theme shows currencies configured at [Shopify Payments](https://help.shopify.com/en/manual/payments/shopify-payments/multi-currency). If you want to show unsupported currencies by Shopify Payments - enable the info currency conversion below."
         },
         "price_show_sale_separator": {
           "label": "Show sale price separator 'from'. Example: 120$ from 100$"
@@ -1599,7 +1602,7 @@
           "content": "Info currency"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         },
         "show_multiple_currencies": {
           "label": "Enable legacy method of the currency conversion",
@@ -1616,7 +1619,7 @@
         },
         "supported_currencies": {
           "label": "Supported",
-          "info": "Use the country's ISO [currency code](http:\/\/www.xe.com\/iso4217.php). Separate your currency codes with a space."
+          "info": "Use the country's ISO [currency code](http://www.xe.com/iso4217.php). Separate your currency codes with a space."
         },
         "supported_currencies_short_names": {
           "label": "Short names",
@@ -1633,7 +1636,7 @@
           "content": "Support"
         },
         "paragraph__3": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -1701,7 +1704,7 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -1772,7 +1775,7 @@
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -1817,7 +1820,7 @@
           "content": "Support"
         },
         "paragraph__4": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -1829,7 +1832,7 @@
         },
         "social_share_image": {
           "label": "Image",
-          "info": "Shown when sharing a link on social media. [Learn more](https:\/\/help.shopify.com\/manual\/using-themes\/troubleshooting\/showing-social-media-thumbnail-images\/) about image thumbnails."
+          "info": "Shown when sharing a link on social media. [Learn more](https://help.shopify.com/manual/using-themes/troubleshooting/showing-social-media-thumbnail-images/) about image thumbnails."
         },
         "header__2": {
           "content": "Social accounts"
@@ -1892,7 +1895,7 @@
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -1901,7 +1904,7 @@
       "settings": {
         "subscription_method": {
           "label": "Subscription method",
-          "info": "Shopify (default) subscribers will be added to your “accepts marketing” [customer list.](\/admin\/customers?query=&accepts_marketing=1)",
+          "info": "Shopify (default) subscribers will be added to your “accepts marketing” [customer list.](/admin/customers?query=&accepts_marketing=1)",
           "option__1": {
             "label": "Shopify (default)"
           },
@@ -1911,7 +1914,7 @@
         },
         "subscription_mailchimp_form_action": {
           "label": "MailChimp URL",
-          "info": "[Where to get MailChimp form action URL?](https:\/\/mailchimp.com\/)"
+          "info": "[Where to get MailChimp form action URL?](https://mailchimp.com/)"
         },
         "subscription_show_confirmation_checkbox": {
           "label": "Show confirmation checkbox"
@@ -2049,7 +2052,7 @@
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -2122,7 +2125,7 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -2162,13 +2165,13 @@
           "label": "Enable Growave Social Login"
         },
         "paragraph__1": {
-          "content": "To give your customers an easy way to create an account and gain a loyal customer base install [Growave](https:\/\/growave.io\/pricing\/?ref=mari\/) that offers Social Login, Social Sharing, Instagram, Loyalty and Rewards, Reviews, Wishlist "
+          "content": "To give your customers an easy way to create an account and gain a loyal customer base install [Growave](https://growave.io/pricing/?ref=mari/) that offers Social Login, Social Sharing, Instagram, Loyalty and Rewards, Reviews, Wishlist "
         },
         "header__5": {
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -2244,13 +2247,13 @@
           "label": "Enable Growave App"
         },
         "paragraph__1": {
-          "content": "[Growave ‑ Reviews, Loyalty ++by Growave](https:\/\/growave.io\/pricing\/?ref=mari\/)"
+          "content": "[Growave ‑ Reviews, Loyalty ++by Growave](https://growave.io/pricing/?ref=mari/)"
         },
         "header__3": {
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -2280,7 +2283,7 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -2325,7 +2328,7 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -2348,7 +2351,7 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -2435,7 +2438,7 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -2528,10 +2531,10 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+          "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     },
@@ -2605,10 +2608,10 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+          "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       },
       "blocks": {
@@ -2620,7 +2623,7 @@
             },
             "link": {
               "label": "Link",
-              "info": "You can also add a link to the collection + filter by brand. You need to set up filters in the Navigation -> [Filters](\/admin\/menus) for link filtering to work. Link format: {collection link}?filter.p.vendor={Brand})"
+              "info": "You can also add a link to the collection + filter by brand. You need to set up filters in the Navigation -> [Filters](/admin/menus) for link filtering to work. Link format: {collection link}?filter.p.vendor={Brand})"
             }
           }
         }
@@ -2681,10 +2684,10 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+          "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       },
       "blocks": {
@@ -2829,10 +2832,10 @@
               "content": "Support"
             },
             "paragraph__1": {
-              "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+              "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
             },
             "paragraph__2": {
-              "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+              "content": "[Read user manual](https://misell-theme.com/manual/)"
             }
           }
         }
@@ -2888,7 +2891,7 @@
           "content": "Follow on Shop"
         },
         "undefined": {
-          "info": "To allow customers to follow your store on the Shop app from your storefront, Shop Pay must be enabled. [Learn more](https:\/\/help.shopify.com\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "To allow customers to follow your store on the Shop app from your storefront, Shop Pay must be enabled. [Learn more](https://help.shopify.com/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Enable Follow on Shop"
@@ -2897,7 +2900,7 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       },
       "blocks": {
@@ -3148,13 +3151,13 @@
           "info": "Default page: 'Include Header Info Line #4'"
         },
         "header__4": {
-          "content": "Country\/region selector"
+          "content": "Country/region selector"
         },
         "undefined": {
-          "info": "To add a country\/region, go to your [payment settings.](\/admin\/settings\/payments)"
+          "info": "To add a country/region, go to your [payment settings.](/admin/settings/payments)"
         },
         "enable_country_selector": {
-          "label": "Enable country\/region selector"
+          "label": "Enable country/region selector"
         },
         "show_country_name": {
           "label": "Show country name"
@@ -3197,10 +3200,10 @@
           "content": "Support"
         },
         "paragraph__3": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+          "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
         },
         "paragraph__4": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       },
       "blocks": {
@@ -3592,7 +3595,7 @@
                 "label": "4 items in 2 rows"
               },
               "option__10": {
-                "label": "2\/3 & 1\/3 columns"
+                "label": "2/3 & 1/3 columns"
               }
             },
             "column_left_size": {
@@ -3632,7 +3635,7 @@
                 "label": "4 items in 2 rows"
               },
               "option__10": {
-                "label": "8\/12 & 4\/12 columns"
+                "label": "8/12 & 4/12 columns"
               }
             },
             "column_right_size": {
@@ -4102,7 +4105,7 @@
             },
             "customization_class": {
               "label": "Customization class",
-              "info": "[Read user manual for adding extra classes](https:\/\/misell-theme.com\/manual\/)"
+              "info": "[Read user manual for adding extra classes](https://misell-theme.com/manual/)"
             }
           }
         },
@@ -4636,16 +4639,16 @@
         },
         "customization_class": {
           "label": "Customization class",
-          "info": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "info": "[Read user manual](https://misell-theme.com/manual/)"
         },
         "header__3": {
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+          "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
         },
         "paragraph__3": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       },
       "blocks": {
@@ -5121,31 +5124,31 @@
                 "label": "1 item in the row"
               },
               "option__3": {
-                "label": "3\/4 from the line"
+                "label": "3/4 from the line"
               },
               "option__4": {
-                "label": "2\/3 from the line"
+                "label": "2/3 from the line"
               },
               "option__5": {
-                "label": "7\/12 from the line"
+                "label": "7/12 from the line"
               },
               "option__6": {
-                "label": "1\/2 from the line"
+                "label": "1/2 from the line"
               },
               "option__7": {
-                "label": "5\/12 from the line"
+                "label": "5/12 from the line"
               },
               "option__8": {
-                "label": "1\/3 from the line"
+                "label": "1/3 from the line"
               },
               "option__9": {
-                "label": "1\/4 from the line"
+                "label": "1/4 from the line"
               },
               "option__10": {
-                "label": "1\/6 from the line"
+                "label": "1/6 from the line"
               },
               "option__11": {
-                "label": "1\/12 from the line"
+                "label": "1/12 from the line"
               }
             },
             "visible": {
@@ -5308,7 +5311,7 @@
             },
             "customization_class": {
               "label": "Customization class",
-              "info": "[Read user manual for adding extra classes](https:\/\/misell-theme.com\/manual\/)"
+              "info": "[Read user manual for adding extra classes](https://misell-theme.com/manual/)"
             }
           }
         },
@@ -5391,31 +5394,31 @@
                 "label": "1 item in the row"
               },
               "option__3": {
-                "label": "3\/4 from the line"
+                "label": "3/4 from the line"
               },
               "option__4": {
-                "label": "2\/3 from the line"
+                "label": "2/3 from the line"
               },
               "option__5": {
-                "label": "7\/12 from the line"
+                "label": "7/12 from the line"
               },
               "option__6": {
-                "label": "1\/2 from the line"
+                "label": "1/2 from the line"
               },
               "option__7": {
-                "label": "5\/12 from the line"
+                "label": "5/12 from the line"
               },
               "option__8": {
-                "label": "1\/3 from the line"
+                "label": "1/3 from the line"
               },
               "option__9": {
-                "label": "1\/4 from the line"
+                "label": "1/4 from the line"
               },
               "option__10": {
-                "label": "1\/6 from the line"
+                "label": "1/6 from the line"
               },
               "option__11": {
-                "label": "1\/12 from the line"
+                "label": "1/12 from the line"
               }
             },
             "arrows": {
@@ -5793,7 +5796,7 @@
             },
             "customization_class": {
               "label": "Customization class",
-              "info": "[Read user manual for adding extra classes](https:\/\/misell-theme.com\/manual\/)"
+              "info": "[Read user manual for adding extra classes](https://misell-theme.com/manual/)"
             }
           }
         },
@@ -5837,31 +5840,31 @@
                 "label": "1 item in the row"
               },
               "option__3": {
-                "label": "3\/4 from the line"
+                "label": "3/4 from the line"
               },
               "option__4": {
-                "label": "2\/3 from the line"
+                "label": "2/3 from the line"
               },
               "option__5": {
-                "label": "7\/12 from the line"
+                "label": "7/12 from the line"
               },
               "option__6": {
-                "label": "1\/2 from the line"
+                "label": "1/2 from the line"
               },
               "option__7": {
-                "label": "5\/12 from the line"
+                "label": "5/12 from the line"
               },
               "option__8": {
-                "label": "1\/3 from the line"
+                "label": "1/3 from the line"
               },
               "option__9": {
-                "label": "1\/4 from the line"
+                "label": "1/4 from the line"
               },
               "option__10": {
-                "label": "1\/6 from the line"
+                "label": "1/6 from the line"
               },
               "option__11": {
-                "label": "1\/12 from the line"
+                "label": "1/12 from the line"
               }
             },
             "arrows": {
@@ -6190,18 +6193,18 @@
             },
             "slide_animation": {
               "label": "Slide animation",
-              "info": "Take animation names in [Documentation](https:\/\/www.themepunch.com\/revsliderjquery-doc\/slide-transitions\/)"
+              "info": "Take animation names in [Documentation](https://www.themepunch.com/revsliderjquery-doc/slide-transitions/)"
             },
             "html_animation": {
               "label": "HTML layer animation",
-              "info": "Take animation presets in [Documentation](https:\/\/www.themepunch.com\/revsliderjquery-doc\/layer-transitions\/)"
+              "info": "Take animation presets in [Documentation](https://www.themepunch.com/revsliderjquery-doc/layer-transitions/)"
             },
             "header__10": {
               "content": "Customization"
             },
             "customization_class": {
               "label": "Customization class",
-              "info": "[Read user manual for adding extra classes](https:\/\/misell-theme.com\/manual\/)"
+              "info": "[Read user manual for adding extra classes](https://misell-theme.com/manual/)"
             }
           }
         },
@@ -6264,31 +6267,31 @@
                 "label": "1 item in the row"
               },
               "option__3": {
-                "label": "3\/4 from the line"
+                "label": "3/4 from the line"
               },
               "option__4": {
-                "label": "2\/3 from the line"
+                "label": "2/3 from the line"
               },
               "option__5": {
-                "label": "7\/12 from the line"
+                "label": "7/12 from the line"
               },
               "option__6": {
-                "label": "1\/2 from the line"
+                "label": "1/2 from the line"
               },
               "option__7": {
-                "label": "5\/12 from the line"
+                "label": "5/12 from the line"
               },
               "option__8": {
-                "label": "1\/3 from the line"
+                "label": "1/3 from the line"
               },
               "option__9": {
-                "label": "1\/4 from the line"
+                "label": "1/4 from the line"
               },
               "option__10": {
-                "label": "1\/6 from the line"
+                "label": "1/6 from the line"
               },
               "option__11": {
-                "label": "1\/12 from the line"
+                "label": "1/12 from the line"
               }
             }
           }
@@ -6342,31 +6345,31 @@
                 "label": "1 item in the row"
               },
               "option__3": {
-                "label": "3\/4 from the line"
+                "label": "3/4 from the line"
               },
               "option__4": {
-                "label": "2\/3 from the line"
+                "label": "2/3 from the line"
               },
               "option__5": {
-                "label": "7\/12 from the line"
+                "label": "7/12 from the line"
               },
               "option__6": {
-                "label": "1\/2 from the line"
+                "label": "1/2 from the line"
               },
               "option__7": {
-                "label": "5\/12 from the line"
+                "label": "5/12 from the line"
               },
               "option__8": {
-                "label": "1\/3 from the line"
+                "label": "1/3 from the line"
               },
               "option__9": {
-                "label": "1\/4 from the line"
+                "label": "1/4 from the line"
               },
               "option__10": {
-                "label": "1\/6 from the line"
+                "label": "1/6 from the line"
               },
               "option__11": {
-                "label": "1\/12 from the line"
+                "label": "1/12 from the line"
               }
             }
           }
@@ -6392,31 +6395,31 @@
                 "label": "1 item in the row"
               },
               "option__3": {
-                "label": "3\/4 from the line"
+                "label": "3/4 from the line"
               },
               "option__4": {
-                "label": "2\/3 from the line"
+                "label": "2/3 from the line"
               },
               "option__5": {
-                "label": "7\/12 from the line"
+                "label": "7/12 from the line"
               },
               "option__6": {
-                "label": "1\/2 from the line"
+                "label": "1/2 from the line"
               },
               "option__7": {
-                "label": "5\/12 from the line"
+                "label": "5/12 from the line"
               },
               "option__8": {
-                "label": "1\/3 from the line"
+                "label": "1/3 from the line"
               },
               "option__9": {
-                "label": "1\/4 from the line"
+                "label": "1/4 from the line"
               },
               "option__10": {
-                "label": "1\/6 from the line"
+                "label": "1/6 from the line"
               },
               "option__11": {
-                "label": "1\/12 from the line"
+                "label": "1/12 from the line"
               }
             }
           }
@@ -6468,10 +6471,10 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+          "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       },
       "blocks": {
@@ -6608,7 +6611,7 @@
           "content": "Content"
         },
         "paragraph__1": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         },
         "autoplay": {
           "label": "Autoplay"
@@ -6697,7 +6700,7 @@
               "content": "Support"
             },
             "paragraph__1": {
-              "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+              "content": "[Read user manual](https://misell-theme.com/manual/)"
             }
           }
         },
@@ -6795,7 +6798,7 @@
           "info": "Or turn off filtering by default and turn on filtering by tags if this option is disabled."
         },
         "paragraph__3": {
-          "content": "[Customize filters](\/admin\/menus) in the admin panel and add a block to \"Add block -> Filters\" to show the filters. These settings apply only to the \"Filters\" block."
+          "content": "[Customize filters](/admin/menus) in the admin panel and add a block to \"Add block -> Filters\" to show the filters. These settings apply only to the \"Filters\" block."
         },
         "show_selected_filters_counter": {
           "label": "Show selected filters counter & button \"Reset\""
@@ -7007,10 +7010,10 @@
           "content": "Support"
         },
         "paragraph__6": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+          "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
         },
         "paragraph__7": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       },
       "blocks": {
@@ -7093,7 +7096,7 @@
               "content": "This block will be shown if the \"Product grid -> Filtering -> Enable default filtering\" option is enabled."
             },
             "paragraph__2": {
-              "content": "[Customize filters](\/admin\/menus)"
+              "content": "[Customize filters](/admin/menus)"
             },
             "header__1": {
               "content": "Section settings"
@@ -8207,19 +8210,19 @@
         "gallery_size": {
           "label": "Gallery size",
           "option__1": {
-            "label": "4\/12"
+            "label": "4/12"
           },
           "option__2": {
-            "label": "5\/12"
+            "label": "5/12"
           },
           "option__3": {
-            "label": "6\/12"
+            "label": "6/12"
           },
           "option__4": {
-            "label": "7\/12"
+            "label": "7/12"
           },
           "option__5": {
-            "label": "8\/12"
+            "label": "8/12"
           }
         },
         "sidebar": {
@@ -8272,7 +8275,7 @@
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       },
       "blocks": {
@@ -8566,19 +8569,19 @@
         "gallery_size": {
           "label": "Gallery size",
           "option__1": {
-            "label": "4\/12"
+            "label": "4/12"
           },
           "option__2": {
-            "label": "5\/12"
+            "label": "5/12"
           },
           "option__3": {
-            "label": "6\/12"
+            "label": "6/12"
           },
           "option__4": {
-            "label": "7\/12"
+            "label": "7/12"
           },
           "option__5": {
-            "label": "8\/12"
+            "label": "8/12"
           }
         },
         "enable_sticky_sidebar": {
@@ -8591,7 +8594,7 @@
           "content": "Support"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       },
       "blocks": {
@@ -8843,7 +8846,7 @@
           "label": "Enable default filtering"
         },
         "paragraph__1": {
-          "content": "[Customize filters](\/admin\/menus) in the admin panel and add a block to \"Add block -> Filters\" to show the filters. These settings apply only to the \"Filters\" block."
+          "content": "[Customize filters](/admin/menus) in the admin panel and add a block to \"Add block -> Filters\" to show the filters. These settings apply only to the \"Filters\" block."
         },
         "show_selected_filters_counter": {
           "label": "Show selected filters counter & button \"Reset\""
@@ -9040,13 +9043,13 @@
           "content": "Video tutorial"
         },
         "paragraph__4": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+          "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
         },
         "header__7": {
           "content": "Support"
         },
         "paragraph__5": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       },
       "blocks": {
@@ -9093,7 +9096,7 @@
               "content": "This block will be shown if the \"Search page -> Filtering -> Enable default filtering\" option is enabled."
             },
             "paragraph__2": {
-              "content": "[Customize filters](\/admin\/menus)"
+              "content": "[Customize filters](/admin/menus)"
             },
             "header__1": {
               "content": "Section settings"
@@ -9767,10 +9770,10 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/@shopifymise1354)"
+          "content": "[Watch video tutorials](https://www.youtube.com/@shopifymise1354)"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       },
       "blocks": {
@@ -9995,10 +9998,10 @@
           "content": "Support"
         },
         "paragraph__1": {
-          "content": "[Watch video tutorials](https:\/\/www.youtube.com\/watch?v=zSN75qF0olA&list=PLAy2KDG_No-AxqsLMLW4apX0Sn8MuvXrs&index=1)"
+          "content": "[Watch video tutorials](https://www.youtube.com/watch?v=zSN75qF0olA&list=PLAy2KDG_No-AxqsLMLW4apX0Sn8MuvXrs&index=1)"
         },
         "paragraph__2": {
-          "content": "[Read user manual](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[Read user manual](https://misell-theme.com/manual/)"
         }
       }
     }

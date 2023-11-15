@@ -4,8 +4,8 @@
     "theme_name": "MISELL",
     "theme_version": "2.0",
     "theme_author": "Oops",
-    "theme_documentation_url": "https:\/\/misell-theme.com\/manual\/",
-    "theme_support_url": "https:\/\/shop.misell-theme.com\/pages\/contact"
+    "theme_documentation_url": "https://misell-theme.com/manual/",
+    "theme_support_url": "https://shop.misell-theme.com/pages/contact"
   },
   {
     "name": "t:settings_schema.quick_start.name",
@@ -889,9 +889,9 @@
         "type": "select",
         "id": "font_all_apply_to_font_feature",
         "label": "t:settings_schema.typography.settings.font_all_apply_to_font_feature.label",
-        "default":  "'initial'",
+        "default": "'initial'",
         "info": "t:settings_schema.typography.settings.font_all_apply_to_font_feature.info",
-        "options":[
+        "options": [
           {
             "value": "'initial'",
             "label": "t:settings_schema.typography.settings.font_all_apply_to_font_feature.option__1.label"
@@ -929,7 +929,7 @@
             "label": "t:settings_schema.typography.settings.font_base_apply_to_selection.option__2.label"
           },
           {
-            "value": "shopify", 
+            "value": "shopify",
             "label": "t:settings_schema.typography.settings.font_base_apply_to_selection.option__3.label"
           }
         ]
@@ -954,7 +954,7 @@
         "label": "t:settings_schema.typography.settings.font_base_apply_to_google_select.label",
         "info": "t:settings_schema.typography.settings.font_base_apply_to_google_select.info",
         "default": "'Noto Sans JP', sans-serif",
-        "options":[
+        "options": [
           {
             "value": "'Noto Sans JP', sans-serif",
             "label": "Noto Sans Japanese"
@@ -1067,6 +1067,12 @@
         "default": 13
       },
       {
+        "type": "checkbox",
+        "id": "font_uppercase",
+        "label": "t:settings_schema.typography.settings.font_uppercase.label",
+        "default": true
+      },
+      {
         "type": "header",
         "content": "t:settings_schema.typography.settings.header__2.content"
       },
@@ -1109,7 +1115,7 @@
         "label": "t:settings_schema.typography.settings.font_heading_apply_to_google_select.label",
         "info": "t:settings_schema.typography.settings.font_heading_apply_to_google_select.info",
         "default": "'Noto Sans JP', sans-serif",
-        "options":[
+        "options": [
           {
             "value": "'Noto Sans JP', sans-serif",
             "label": "Noto Sans Japanese"
@@ -1300,6 +1306,10 @@
         "unit": "px",
         "label": "t:settings_schema.typography.settings.font_size_input.label",
         "default": 13
+      },
+      {
+        "type": "header",
+        "content": "t:settings_schema.typography.settings.header__4.content"
       },
       {
         "type": "header",
@@ -2340,7 +2350,7 @@
         "type": "text",
         "id": "product_delivery_countdown_delivery_format",
         "label": "t:settings_schema.product_page_and_quick_view.settings.product_delivery_countdown_delivery_format.label",
-        "default": "Day DD\/MM\/YYYY",
+        "default": "Day DD/MM/YYYY",
         "info": "t:settings_schema.product_page_and_quick_view.settings.product_delivery_countdown_delivery_format.info"
       },
       {
@@ -3079,43 +3089,43 @@
         "type": "text",
         "id": "social_facebook",
         "label": "t:settings_schema.social_media.settings.social_facebook.label",
-        "default": "https:\/\/www.facebook.com\/"
+        "default": "https://www.facebook.com/"
       },
       {
         "type": "text",
         "id": "social_twitter",
         "label": "t:settings_schema.social_media.settings.social_twitter.label",
-        "default": "https:\/\/twitter.com\/"
+        "default": "https://twitter.com/"
       },
       {
         "type": "text",
         "id": "social_instagram",
         "label": "t:settings_schema.social_media.settings.social_instagram.label",
-        "default": "https:\/\/www.instagram.com\/"
+        "default": "https://www.instagram.com/"
       },
       {
         "type": "text",
         "id": "social_pinterest",
         "label": "t:settings_schema.social_media.settings.social_pinterest.label",
-        "default": "https:\/\/www.pinterest.com\/"
+        "default": "https://www.pinterest.com/"
       },
       {
         "type": "text",
         "id": "social_youtube",
         "label": "t:settings_schema.social_media.settings.social_youtube.label",
-        "default": "https:\/\/www.youtube.com\/"
+        "default": "https://www.youtube.com/"
       },
       {
         "type": "text",
         "id": "social_behance",
         "label": "t:settings_schema.social_media.settings.social_behance.label",
-        "default": "https:\/\/www.behance.net\/"
+        "default": "https://www.behance.net/"
       },
       {
         "type": "text",
         "id": "social_skype",
         "label": "t:settings_schema.social_media.settings.social_skype.label",
-        "default": "https:\/\/www.skype.com\/"
+        "default": "https://www.skype.com/"
       },
       {
         "type": "header",
@@ -3214,7 +3224,7 @@
         "id": "subscription_mailchimp_form_action",
         "label": "t:settings_schema.news_subscription.settings.subscription_mailchimp_form_action.label",
         "info": "t:settings_schema.news_subscription.settings.subscription_mailchimp_form_action.info",
-        "default": "\/\/myshopify.us18.list-manage.com\/subscribe\/post?u=8a50b61e56896303a04d0243e&amp;id=3c3d06b907"
+        "default": "//myshopify.us18.list-manage.com/subscribe/post?u=8a50b61e56896303a04d0243e&amp;id=3c3d06b907"
       },
       {
         "type": "checkbox",

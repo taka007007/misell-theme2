@@ -40,22 +40,22 @@
           "content": "リソース"
         },
         "paragraph__9": {
-          "content": "[Shopifyのヘルプページ](https:\/\/help.shopify.com\/ja\/manual\/intro-to-shopify\/initial-setup\/setup-getting-started)"
+          "content": "[Shopifyのヘルプページ](https://help.shopify.com/ja/manual/intro-to-shopify/initial-setup/setup-getting-started)"
         },
         "paragraph__10": {
-          "content": "[MISEル ユーザーマニュアル](https:\/\/misell-theme.com\/manual\/)"
+          "content": "[MISEル ユーザーマニュアル](https://misell-theme.com/manual/)"
         },
         "paragraph__11": {
-          "content": "[ MISEル ビデオ](https:\/\/www.youtube.com\/channel\/UChCFvSvr3YgbYDcumJ_OqzQ)"
+          "content": "[ MISEル ビデオ](https://www.youtube.com/channel/UChCFvSvr3YgbYDcumJ_OqzQ)"
         },
         "paragraph__12": {
-          "content": "[ MISEル 販売ページ](https:\/\/shop.misell-theme.com\/)"
+          "content": "[ MISEル 販売ページ](https://shop.misell-theme.com/)"
         },
         "header__5": {
           "content": "サポート"
         },
         "paragraph__13": {
-          "content": "[ MISEル - サポート](https:\/\/shop.misell-theme.com\/pages\/contact)"
+          "content": "[ MISEル - サポート](https://shop.misell-theme.com/pages/contact)"
         },
         "paragraph__14": {
           "content": " "
@@ -73,7 +73,7 @@
       "settings": {
         "purchase_code": {
           "label": "ライセンスコードの入力",
-          "info": "『MISEル』のライセンスコードは『MISEル』のテーマショップからご購入いただけます。[『MISEル』販売サイト](https:\/\/shop.misell-theme.com\/)"
+          "info": "『MISEル』のライセンスコードは『MISEル』のテーマショップからご購入いただけます。[『MISEル』販売サイト](https://shop.misell-theme.com/)"
         },
         "presentation_enable": {
           "label": "プレゼンテーションモードを有効化",
@@ -83,7 +83,7 @@
           "content": "お知らせ"
         },
         "paragraph__1": {
-          "content": "テーマを有効化するにはライセンスコードを入力してください。ライセンスコード 1つにつき、1ストア（Shopify）となります。同じストア内であれば、複数のテーマに使用できます。詳しい方法はユーザーマニュアルでご覧いただけます。 [テーマの有効化](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/license\/) "
+          "content": "テーマを有効化するにはライセンスコードを入力してください。ライセンスコード 1つにつき、1ストア（Shopify）となります。同じストア内であれば、複数のテーマに使用できます。詳しい方法はユーザーマニュアルでご覧いただけます。 [テーマの有効化](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/license/) "
         }
       }
     },
@@ -197,7 +197,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[ロゴとファビコン](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/logo-and-favicon\/)"
+          "content": "[ロゴとファビコン](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/logo-and-favicon/)"
         }
       }
     },
@@ -329,7 +329,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[レイアウト](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/layout\/)"
+          "content": "[レイアウト](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/layout/)"
         }
       }
     },
@@ -553,7 +553,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[カラー](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/colors\/)"
+          "content": "[カラー](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/colors/)"
         }
       }
     },
@@ -563,7 +563,7 @@
         "header__1": {
           "content": "ボディー(本文)"
         },
-        "font_all_apply_to_font_feature":{
+        "font_all_apply_to_font_feature": {
           "label": "日本語フォントの文字詰め",
           "info": "'palt'：仮名・カッコ・句読点の詰め 'pwid'：仮名・カッコの詰め　　-'pkna'：仮名のみ詰め",
           "option__1": {
@@ -579,11 +579,11 @@
         },
         "font_base_apply_to_custom": {
           "label": "システムフォント選択時有効(本文)",
-          "info": "日本語システムフォント選択[参考サイト](https:\/\/saruwakakun.com\/font-family)　font-family:〇〇〇;の〇の名前部分のみ入力してください。"
+          "info": "日本語システムフォント選択[参考サイト](https://saruwakakun.com/font-family)　font-family:〇〇〇;の〇の名前部分のみ入力してください。"
         },
         "font_base_apply_to_google_select": {
           "label": "Googleフォント選択時有効(本文)",
-          "info": "フォントによりウエイト数が異なります。[Google Fonts公式](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
+          "info": "フォントによりウエイト数が異なります。[Google Fonts公式](https://fonts.google.com/?subset=japanese&noto.script=Hira)"
         },
         "font_base_apply_to_selection": {
           "label": "フォントの選択(本文)",
@@ -665,6 +665,9 @@
         "header__2": {
           "content": "見出し"
         },
+        "font_uppercase": {
+          "label": "英文字の大文字表記を有効化"
+        },
         "font_all_apply_to_budoux": {
           "label": "日本語の自動改行を有効化"
         },
@@ -682,11 +685,11 @@
         },
         "font_heading_custom": {
           "label": "システムフォント選択時有効(見出し)",
-          "info": "日本語システムフォント選択[参考サイト](https:\/\/saruwakakun.com\/font-family)　font-family:〇〇〇;の〇の名前部分のみ入力してください。"
+          "info": "日本語システムフォント選択[参考サイト](https://saruwakakun.com/font-family)　font-family:〇〇〇;の〇の名前部分のみ入力してください。"
         },
         "font_heading_apply_to_google_select": {
           "label": "Googleフォントを選択(見出し)",
-          "info": "フォントによりウエイト数が異なります。詳しくは、[こちら](https:\/\/fonts.google.com\/?subset=japanese&noto.script=Hira)"
+          "info": "フォントによりウエイト数が異なります。詳しくは、[こちら](https://fonts.google.com/?subset=japanese&noto.script=Hira)"
         },
         "font_heading": {
           "label": "Shopify管理フォント(見出し)"
@@ -837,7 +840,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[フォントスタイル](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/typography\/)"
+          "content": "[フォントスタイル](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/typography/)"
         }
       }
     },
@@ -889,7 +892,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[コレクションページ](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/collection-page\/)"
+          "content": "[コレクションページ](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/collection-page/)"
         }
       }
     },
@@ -911,7 +914,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[商品 -> 一般設定](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/product-general\/)"
+          "content": "[商品 -> 一般設定](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/product-general/)"
         }
       }
     },
@@ -984,7 +987,7 @@
         },
         "product_options_type_circle_color": {
           "label": "「サークルカラー」のオプションタイプ",
-          "info": "商品のバリエーションを色付きのサークルで表示。ただし、商品オプション登録でそれぞれのバリエーション(オプションの値)の色名はCSSの標準カラー名(英語)にする必要があります。区切りには'|'(パイプライン)を使用します。[CSSカラー名](https:\/\/onyxtan-nl.myshopify.com\/pages\/css-color-name)"
+          "info": "商品のバリエーションを色付きのサークルで表示。ただし、商品オプション登録でそれぞれのバリエーション(オプションの値)の色名はCSSの標準カラー名(英語)にする必要があります。区切りには'|'(パイプライン)を使用します。[CSSカラー名](https://onyxtan-nl.myshopify.com/pages/css-color-name)"
         },
         "product_options_type_circle_image": {
           "label": "「サークル画像」のオプションタイプ",
@@ -1010,10 +1013,10 @@
           "content": "ビデオチュートリアル・ユーザーマニュアル"
         },
         "paragraph__3": {
-          "content": "[商品オプションの追加方法（動画）](https:\/\/youtu.be\/4-So_i2XwZA)"
+          "content": "[商品オプションの追加方法（動画）](https://youtu.be/4-So_i2XwZA)"
         },
         "paragraph__4": {
-          "content": "[商品 -> バリエーション](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/product-variants\/)"
+          "content": "[商品 -> バリエーション](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/product-variants/)"
         }
       }
     },
@@ -1049,10 +1052,10 @@
           "content": "オート ー ｢オート｣を選んだ場合、上記の｢画像の比率｣での設定は反映されません。もとのアップロードした画像のサイズに合わせた比率で表示されます。"
         },
         "paragraph__2": {
-          "content": "コンテイン ー ｢コンテイン｣を選んだ場合、CSSの｢object-fit = contain｣と同じになります。画像が自動的に切り取られ指定の比率に収まるようになります。[object-fit css のデモ](https:\/\/developer.mozilla.org\/ja\/docs\/Web\/CSS\/object-fit)."
+          "content": "コンテイン ー ｢コンテイン｣を選んだ場合、CSSの｢object-fit = contain｣と同じになります。画像が自動的に切り取られ指定の比率に収まるようになります。[object-fit css のデモ](https://developer.mozilla.org/ja/docs/Web/CSS/object-fit)."
         },
         "paragraph__3": {
-          "content": "カバー ー ｢カバー｣を選んだ場合、CSSの｢object-fit = cover｣と同じになります。画像全体が指定の比率に収まるようになります。[object-fit cssのデモ](https:\/\/developer.mozilla.org\/ja\/docs\/Web\/CSS\/object-fit)."
+          "content": "カバー ー ｢カバー｣を選んだ場合、CSSの｢object-fit = cover｣と同じになります。画像全体が指定の比率に収まるようになります。[object-fit cssのデモ](https://developer.mozilla.org/ja/docs/Web/CSS/object-fit)."
         },
         "paragraph__4": {
           "content": "幅に合わせる - 「幅に合わせる」を選んだ場合、画像の幅が画像ボックスに合わされます。もし、画像の高さが画像ボックスより大きい場合自動的に上下が切り取られます。画像の高さが画像ボックスより小さい場合、空白が上下に自動的に挿入されます。"
@@ -1146,7 +1149,7 @@
         },
         "product_collection_show_reviews": {
           "label": "商品レビューの表示",
-          "info": "｢Product Reviews app｣のインストールが必要です。 [Product Reviews](https:\/\/apps.shopify.com\/product-reviews)"
+          "info": "｢Product Reviews app｣のインストールが必要です。 [Product Reviews](https://apps.shopify.com/product-reviews)"
         },
         "product_collection_hide_reviews_counter": {
           "label": "レビューのカウンターを非表示"
@@ -1183,7 +1186,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__6": {
-          "content": "[商品 -> コレクションページ](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/product-collection-page\/)"
+          "content": "[商品 -> コレクションページ](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/product-collection-page/)"
         }
       }
     },
@@ -1318,7 +1321,7 @@
           "content": "レビュー"
         },
         "paragraph__2": {
-          "content": "｢Product Reviews app｣をインストールする必要があります。[Product Reviews](https:\/\/apps.shopify.com\/product-reviews)"
+          "content": "｢Product Reviews app｣をインストールする必要があります。[Product Reviews](https://apps.shopify.com/product-reviews)"
         },
         "product_info_hide_reviews_counter": {
           "label": "レビューのカウンターを非表示"
@@ -1386,7 +1389,7 @@
         },
         "product_delivery_countdown_delivery_format": {
           "label": "配送日時のフォーマット",
-          "info": "例: Day MM\/DD\/YYYY : 月曜 11\/31\/2022"
+          "info": "例: Day MM/DD/YYYY : 月曜 11/31/2022"
         },
         "product_delivery_countdown_delivery_excludes": {
           "label": "カウントしない曜日",
@@ -1459,7 +1462,7 @@
         },
         "product_info_show_gift_card_recipient": {
           "label": "ギフトカード商品の受取人情報フォームを表示",
-          "info": "ギフトカード商品は、メッセージとともに受取人に直接送ることができます。 [詳しくはこちら](https:\/\/help.shopify.com\/ja\/manual\/online-store\/themes\/customizing-themes\/add-gift-card-recipient-fields)"
+          "info": "ギフトカード商品は、メッセージとともに受取人に直接送ることができます。 [詳しくはこちら](https://help.shopify.com/ja/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
         },
         "product_info_show_button_add_to_wishlist": {
           "label": "お気に入りボタンの表示"
@@ -1508,7 +1511,7 @@
         },
         "product_footbar_show_reviews": {
           "label": "商品レビューの表示",
-          "info": "｢Product Reviews app｣をインストールする必要があります。[Product Reviews](https:\/\/apps.shopify.com\/product-reviews)"
+          "info": "｢Product Reviews app｣をインストールする必要があります。[Product Reviews](https://apps.shopify.com/product-reviews)"
         },
         "product_footbar_show_options": {
           "label": "オプションの表示(バリエーション)"
@@ -1561,7 +1564,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__6": {
-          "content": "[商品ページとクイックビュー](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/product-page-and-quick-view\/)"
+          "content": "[商品ページとクイックビュー](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/product-page-and-quick-view/)"
         }
       }
     },
@@ -1573,13 +1576,13 @@
         },
         "search_predictive_enabled": {
           "label": "商品サジェスト(予想検索)を有効化",
-          "info": "Shopifyは日本語の予想検索には対応していません。予想検索ではなく、シンプルな検索機能にするためにチェックボックスを外してください。[予想検索がサポートされている言語](https:\/\/shopify.dev\/docs\/themes\/ajax-api\/reference\/predictive-search)"
+          "info": "Shopifyは日本語の予想検索には対応していません。予想検索ではなく、シンプルな検索機能にするためにチェックボックスを外してください。[予想検索がサポートされている言語](https://shopify.dev/docs/themes/ajax-api/reference/predictive-search)"
         },
         "header__1": {
           "content": "ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[検索(サーチ)](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/search\/)"
+          "content": "[検索(サーチ)](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/search/)"
         }
       }
     },
@@ -1590,7 +1593,7 @@
           "content": "一般設定"
         },
         "paragraph__1": {
-          "content": "デフォルトではテーマの表示通貨はShopifyペイメントで設定したものになっています。 [Shopify ペイメント](https:\/\/help.shopify.com\/ja\/manual\/payments\/shopify-payments\/multi-currency)。Shopifyでサポートされていない通貨形式を表示したい場合は、下記の通貨表示変換オプションを有効にしてください。"
+          "content": "デフォルトではテーマの表示通貨はShopifyペイメントで設定したものになっています。 [Shopify ペイメント](https://help.shopify.com/ja/manual/payments/shopify-payments/multi-currency)。Shopifyでサポートされていない通貨形式を表示したい場合は、下記の通貨表示変換オプションを有効にしてください。"
         },
         "price_show_sale_separator": {
           "label": "セールの価格を表示した場合、もとの価格から割り引いたことを表示"
@@ -1616,7 +1619,7 @@
         },
         "supported_currencies": {
           "label": "サポート通貨",
-          "info": "[ISO通貨コード](http:\/\/www.xe.com\/iso4217.php)を使用してください。。区切りにはスペースを使用してください。 例:USD ERU"
+          "info": "[ISO通貨コード](http://www.xe.com/iso4217.php)を使用してください。。区切りにはスペースを使用してください。 例:USD ERU"
         },
         "supported_currencies_short_names": {
           "label": "通貨の省略ネーム",
@@ -1633,7 +1636,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__3": {
-          "content": "[通貨](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/currency\/)"
+          "content": "[通貨](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/currency/)"
         }
       }
     },
@@ -1695,13 +1698,13 @@
         },
         "cart_free_shipping_value": {
           "label": "送料無料の値",
-          "info": "USD アメリカドルを使用している場合セント単位での数字を入力します。日本円入力の場合も円に 100 をかけた数字を入力してください。例えば 3000 円以上で送料無料であれば'300000'となります。複数の通貨を表示している場合、'|'(パイプライン)で区切って表示してください。ご注意:｢この送料無料のプログレスバー｣はあくまでテーマ上の表示で、実際にカートで決済される送料の設定はShopifyの管理画面の[｢配送と配達｣](\/admin\/settings\/shipping)にて行う必要があります。"
+          "info": "USD アメリカドルを使用している場合セント単位での数字を入力します。日本円入力の場合も円に 100 をかけた数字を入力してください。例えば 3000 円以上で送料無料であれば'300000'となります。複数の通貨を表示している場合、'|'(パイプライン)で区切って表示してください。ご注意:｢この送料無料のプログレスバー｣はあくまでテーマ上の表示で、実際にカートで決済される送料の設定はShopifyの管理画面の[｢配送と配達｣](/admin/settings/shipping)にて行う必要があります。"
         },
         "header__5": {
           "content": "ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[カート](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/cart\/)"
+          "content": "[カート](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/cart/)"
         }
       }
     },
@@ -1772,7 +1775,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[お気に入りリストと比較リスト](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/wishlist-and-compare\/)"
+          "content": "[お気に入りリストと比較リスト](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/wishlist-and-compare/)"
         }
       }
     },
@@ -1817,7 +1820,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__4": {
-          "content": "[お支払い(決済方法)](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/payments\/)"
+          "content": "[お支払い(決済方法)](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/payments/)"
         }
       }
     },
@@ -1829,7 +1832,7 @@
         },
         "social_share_image": {
           "label": "画像",
-          "info": "SNSでシェアされたときのサムネイル画像を設定します。詳しくは[こちら](https:\/\/help.shopify.com\/ja\/manual\/using-themes\/troubleshooting\/showing-social-media-thumbnail-images\/)"
+          "info": "SNSでシェアされたときのサムネイル画像を設定します。詳しくは[こちら](https://help.shopify.com/ja/manual/using-themes/troubleshooting/showing-social-media-thumbnail-images/)"
         },
         "header__2": {
           "content": "SNS"
@@ -1892,7 +1895,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[SNS(ソーシャルメディア)](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/social-media\/)"
+          "content": "[SNS(ソーシャルメディア)](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/social-media/)"
         }
       }
     },
@@ -1901,7 +1904,7 @@
       "settings": {
         "subscription_method": {
           "label": "メルマガ購読方法",
-          "info": "Shopify (デフォルト)の購読者は｢顧客管理｣のリストに加えられます。[顧客管理](\/admin\/customers?query=&accepts_marketing=1)",
+          "info": "Shopify (デフォルト)の購読者は｢顧客管理｣のリストに加えられます。[顧客管理](/admin/customers?query=&accepts_marketing=1)",
           "option__1": {
             "label": "Shopify (デフォルト)"
           },
@@ -1911,7 +1914,7 @@
         },
         "subscription_mailchimp_form_action": {
           "label": "MailChimp URL",
-          "info": "[MailChimp form のフォームアクションのURL取得方法](https:\/\/mailchimp.com\/)"
+          "info": "[MailChimp form のフォームアクションのURL取得方法](https://mailchimp.com/)"
         },
         "subscription_show_confirmation_checkbox": {
           "label": "確認チェックボックスを表示"
@@ -2049,7 +2052,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[メルマガ購読](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/subscription\/)"
+          "content": "[メルマガ購読](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/subscription/)"
         }
       }
     },
@@ -2122,7 +2125,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[ブログとブログ記事ページ](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/blog-and-article-pages\/)"
+          "content": "[ブログとブログ記事ページ](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/blog-and-article-pages/)"
         }
       }
     },
@@ -2162,13 +2165,13 @@
           "label": "Growave Social ログインを有効化"
         },
         "paragraph__1": {
-          "content": "Growaveのアプリ(海外サードパーティーアプリ)をインストールすると、お客様が簡単にアカウントを作れるオプションを提示できます。[Growave](https:\/\/apps.shopify.com\/growave?locale=ja) SNSアカウントログイン・SNSシェア・インスタグラム・レビュー・お気に入りリストなど。"
+          "content": "Growaveのアプリ(海外サードパーティーアプリ)をインストールすると、お客様が簡単にアカウントを作れるオプションを提示できます。[Growave](https://apps.shopify.com/growave?locale=ja) SNSアカウントログイン・SNSシェア・インスタグラム・レビュー・お気に入りリストなど。"
         },
         "header__5": {
           "content": "ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[アカウント](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/account\/)"
+          "content": "[アカウント](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/account/)"
         }
       }
     },
@@ -2244,13 +2247,13 @@
           "label": "Growave Appを有効化"
         },
         "paragraph__1": {
-          "content": "Weglotは他社アプリになります。詳しくは[こちら](https:\/\/apps.shopify.com\/weglot?locale=ja) [Growave ‑ Reviews, Loyalty ++by Growave](https:\/\/apps.shopify.com\/growave?locale=ja)"
+          "content": "Weglotは他社アプリになります。詳しくは[こちら](https://apps.shopify.com/weglot?locale=ja) [Growave ‑ Reviews, Loyalty ++by Growave](https://apps.shopify.com/growave?locale=ja)"
         },
         "header__3": {
           "content": "ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[アプリと言語](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/apps-and-language\/)"
+          "content": "[アプリと言語](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/apps-and-language/)"
         }
       }
     },
@@ -2280,7 +2283,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[ボタン・インプット・プロモボックス](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/button-input-and-promo-box\/)"
+          "content": "[ボタン・インプット・プロモボックス](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/button-input-and-promo-box/)"
         }
       }
     },
@@ -2325,7 +2328,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[お知らせ(通知)](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/notifications\/)"
+          "content": "[お知らせ(通知)](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/notifications/)"
         }
       }
     },
@@ -2348,7 +2351,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[プリロード](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/pre-loader\/)"
+          "content": "[プリロード](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/pre-loader/)"
         }
       }
     },
@@ -2435,7 +2438,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[アニメーション](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/animations\/)"
+          "content": "[アニメーション](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/animations/)"
         }
       }
     },
@@ -2528,10 +2531,10 @@
           "content": "ビデオチュートリアル・ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[記事カルーセル（動画）](https:\/\/www.youtube.com\/channel\/UChCFvSvr3YgbYDcumJ_OqzQ)"
+          "content": "[記事カルーセル（動画）](https://www.youtube.com/channel/UChCFvSvr3YgbYDcumJ_OqzQ)"
         },
         "paragraph__2": {
-          "content": "[記事カルーセル](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/sections\/additional-section\/article-carousel\/)"
+          "content": "[記事カルーセル](https://misell-theme.com/manual/docs/misell-user-manual/sections/additional-section/article-carousel/)"
         }
       }
     },
@@ -2605,10 +2608,10 @@
           "content": "ビデオチュートリアル・ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[ブランドカルーセル（動画）](https:\/\/www.youtube.com\/channel\/UChCFvSvr3YgbYDcumJ_OqzQ)"
+          "content": "[ブランドカルーセル（動画）](https://www.youtube.com/channel/UChCFvSvr3YgbYDcumJ_OqzQ)"
         },
         "paragraph__2": {
-          "content": "[ブランドカルーセル](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/sections\/additional-section\/brand-carousel\/)"
+          "content": "[ブランドカルーセル](https://misell-theme.com/manual/docs/misell-user-manual/sections/additional-section/brand-carousel/)"
         }
       },
       "blocks": {
@@ -2620,7 +2623,7 @@
             },
             "link": {
               "label": "リンク",
-              "info": "ブランドによってコレクションフィルターへのリンクを加えることができます。その場合、｢ナビゲーション > フィルター｣で設定する必要があります。 [フィルター](\/admin\/menus) リンクフォーマット: {collection link}?filter.p.vendor={Brand})"
+              "info": "ブランドによってコレクションフィルターへのリンクを加えることができます。その場合、｢ナビゲーション > フィルター｣で設定する必要があります。 [フィルター](/admin/menus) リンクフォーマット: {collection link}?filter.p.vendor={Brand})"
             }
           }
         }
@@ -2681,10 +2684,10 @@
           "content": "ビデオチュートリアル・ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[商品カルーセル（動画）](https:\/\/www.youtube.com\/channel\/UChCFvSvr3YgbYDcumJ_OqzQ)"
+          "content": "[商品カルーセル（動画）](https://www.youtube.com/channel/UChCFvSvr3YgbYDcumJ_OqzQ)"
         },
         "paragraph__2": {
-          "content": "[商品カルーセル](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/sections\/additional-section\/product-carousel\/)"
+          "content": "[商品カルーセル](https://misell-theme.com/manual/docs/misell-user-manual/sections/additional-section/product-carousel/)"
         }
       },
       "blocks": {
@@ -2829,10 +2832,10 @@
               "content": "ビデオチュートリアル・ユーザーマニュアル"
             },
             "paragraph__1": {
-              "content": "[レビューカルーセル（動画）](https:\/\/www.youtube.com\/channel\/UChCFvSvr3YgbYDcumJ_OqzQ)"
+              "content": "[レビューカルーセル（動画）](https://www.youtube.com/channel/UChCFvSvr3YgbYDcumJ_OqzQ)"
             },
             "paragraph__2": {
-              "content": "[レビューカルーセル](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/sections\/additional-section\/review-carousel\/)"
+              "content": "[レビューカルーセル](https://misell-theme.com/manual/docs/misell-user-manual/sections/additional-section/review-carousel/)"
             }
           }
         }
@@ -2888,7 +2891,7 @@
           "content": "Shopでフォロー"
         },
         "undefined": {
-          "info": "｢Shopでフォロー｣を追加するとお客様はShopアプリでストアをフォローできるようになります。｢Shopでフォロー｣を使用するにはShop Payが有効になっている必要があります。 [詳しくはこちら](https:\/\/help.shopify.com\/ja\/manual\/online-store\/themes\/customizing-themes\/follow-on-shop)"
+          "info": "｢Shopでフォロー｣を追加するとお客様はShopアプリでストアをフォローできるようになります。｢Shopでフォロー｣を使用するにはShop Payが有効になっている必要があります。 [詳しくはこちら](https://help.shopify.com/ja/manual/online-store/themes/customizing-themes/follow-on-shop)"
         },
         "enable_follow_on_shop": {
           "label": "Shopでフォローを有効化"
@@ -2897,7 +2900,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[フッター](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/sections\/main-section\/footer\/)"
+          "content": "[フッター](https://misell-theme.com/manual/docs/misell-user-manual/sections/main-section/footer/)"
         }
       },
       "blocks": {
@@ -3148,13 +3151,13 @@
           "info": "デフォルトでは'Include Header Info Line #4'のページが挿入されます。"
         },
         "header__4": {
-          "content": "国\/地域セレクター"
+          "content": "国/地域セレクター"
         },
         "undefined": {
-          "info": "国\/地域を加えるにはストアでの設定を行ってください。[決済の設定](\/admin\/settings\/payments)"
+          "info": "国/地域を加えるにはストアでの設定を行ってください。[決済の設定](/admin/settings/payments)"
         },
         "enable_country_selector": {
-          "label": "国\/地域のセレクターを有効化"
+          "label": "国/地域のセレクターを有効化"
         },
         "show_country_name": {
           "label": "国名を表示"
@@ -3197,10 +3200,10 @@
           "content": "ビデオチュートリアル・ユーザーマニュアル"
         },
         "paragraph__3": {
-          "content": "[ヘッダーオプション（動画）](https:\/\/www.youtube.com\/channel\/UChCFvSvr3YgbYDcumJ_OqzQ)"
+          "content": "[ヘッダーオプション（動画）](https://www.youtube.com/channel/UChCFvSvr3YgbYDcumJ_OqzQ)"
         },
         "paragraph__4": {
-          "content": "[ヘッダー](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/sections\/main-section\/header\/)"
+          "content": "[ヘッダー](https://misell-theme.com/manual/docs/misell-user-manual/sections/main-section/header/)"
         }
       },
       "blocks": {
@@ -3329,7 +3332,7 @@
           "name": "アイコン (1階層目)",
           "settings": {
             "paragraph__1": {
-              "content": "アイコンは'icon-theme-50'のように指定します。アイコンのコードリストは[こちら](https:\/\/onyxtan-nl.myshopify.com\/pages\/icons)"
+              "content": "アイコンは'icon-theme-50'のように指定します。アイコンのコードリストは[こちら](https://onyxtan-nl.myshopify.com/pages/icons)"
             },
             "for_vertical": {
               "label": "縦メニュー"
@@ -3592,7 +3595,7 @@
                 "label": "2行に4アイテム"
               },
               "option__10": {
-                "label": "2\/3 と 1\/3 コラム"
+                "label": "2/3 と 1/3 コラム"
               }
             },
             "column_left_size": {
@@ -3632,7 +3635,7 @@
                 "label": "2行に4アイテム"
               },
               "option__10": {
-                "label": "8\/12 と 4\/12 コラム"
+                "label": "8/12 と 4/12 コラム"
               }
             },
             "column_right_size": {
@@ -4102,7 +4105,7 @@
             },
             "customization_class": {
               "label": "追加CSSクラス",
-              "info": "CSSクラスを加えるにはユーザーマニュアルを参照してください。こちらは高度な設定です。[追加CSSクラス](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/developer\/)"
+              "info": "CSSクラスを加えるにはユーザーマニュアルを参照してください。こちらは高度な設定です。[追加CSSクラス](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/developer/)"
             }
           }
         },
@@ -4636,16 +4639,16 @@
         },
         "customization_class": {
           "label": "追加CSSクラス",
-          "info": "CSSクラスを加えるにはユーザーマニュアルを参照してください。こちらは高度な設定です。[追加CSSクラス](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/developer\/)"
+          "info": "CSSクラスを加えるにはユーザーマニュアルを参照してください。こちらは高度な設定です。[追加CSSクラス](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/developer/)"
         },
         "header__3": {
           "content": "ビデオチュートリアル・ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[ビルダー（動画）](https:\/\/youtu.be\/m9XV85Rkxhc)"
+          "content": "[ビルダー（動画）](https://youtu.be/m9XV85Rkxhc)"
         },
         "paragraph__3": {
-          "content": "[ビルダー](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/sections\/additional-section\/builder\/)"
+          "content": "[ビルダー](https://misell-theme.com/manual/docs/misell-user-manual/sections/additional-section/builder/)"
         }
       },
       "blocks": {
@@ -5121,31 +5124,31 @@
                 "label": "1行に1アイテム"
               },
               "option__3": {
-                "label": "ラインから 3\/4"
+                "label": "ラインから 3/4"
               },
               "option__4": {
-                "label": "ラインから 2\/3"
+                "label": "ラインから 2/3"
               },
               "option__5": {
-                "label": "ラインから 7\/12"
+                "label": "ラインから 7/12"
               },
               "option__6": {
-                "label": "ラインから 1\/2"
+                "label": "ラインから 1/2"
               },
               "option__7": {
-                "label": "ラインから 5\/12"
+                "label": "ラインから 5/12"
               },
               "option__8": {
-                "label": "ラインから 1\/3"
+                "label": "ラインから 1/3"
               },
               "option__9": {
-                "label": "ラインから 1\/4"
+                "label": "ラインから 1/4"
               },
               "option__10": {
-                "label": "ラインから 1\/6"
+                "label": "ラインから 1/6"
               },
               "option__11": {
-                "label": "ラインから 1\/12"
+                "label": "ラインから 1/12"
               }
             },
             "visible": {
@@ -5308,7 +5311,7 @@
             },
             "customization_class": {
               "label": "追加CSSクラス",
-              "info": "CSSクラスを加えるにはユーザーマニュアルを参照してください。こちらは高度な設定です。[追加CSSクラス](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/developer\/)"
+              "info": "CSSクラスを加えるにはユーザーマニュアルを参照してください。こちらは高度な設定です。[追加CSSクラス](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/developer/)"
             }
           }
         },
@@ -5391,31 +5394,31 @@
                 "label": "1行に1アイテム"
               },
               "option__3": {
-                "label": "ラインから 3\/4"
+                "label": "ラインから 3/4"
               },
               "option__4": {
-                "label": "ラインから 2\/3"
+                "label": "ラインから 2/3"
               },
               "option__5": {
-                "label": "ラインから 7\/12"
+                "label": "ラインから 7/12"
               },
               "option__6": {
-                "label": "ラインから 1\/2"
+                "label": "ラインから 1/2"
               },
               "option__7": {
-                "label": "ラインから 5\/12"
+                "label": "ラインから 5/12"
               },
               "option__8": {
-                "label": "ラインから 1\/3"
+                "label": "ラインから 1/3"
               },
               "option__9": {
-                "label": "ラインから 1\/4"
+                "label": "ラインから 1/4"
               },
               "option__10": {
-                "label": "ラインから 1\/6"
+                "label": "ラインから 1/6"
               },
               "option__11": {
-                "label": "ラインから 1\/12"
+                "label": "ラインから 1/12"
               }
             },
             "arrows": {
@@ -5793,7 +5796,7 @@
             },
             "customization_class": {
               "label": "追加CSSクラス",
-              "info": "CSSクラスを加えるにはユーザーマニュアルを参照してください。こちらは高度な設定です。[追加CSSクラス](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/developer\/)"
+              "info": "CSSクラスを加えるにはユーザーマニュアルを参照してください。こちらは高度な設定です。[追加CSSクラス](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/developer/)"
             }
           }
         },
@@ -5837,31 +5840,31 @@
                 "label": "1行に1アイテム"
               },
               "option__3": {
-                "label": "ラインから 3\/4"
+                "label": "ラインから 3/4"
               },
               "option__4": {
-                "label": "ラインから 2\/3"
+                "label": "ラインから 2/3"
               },
               "option__5": {
-                "label": "ラインから 7\/12"
+                "label": "ラインから 7/12"
               },
               "option__6": {
-                "label": "ラインから 1\/2"
+                "label": "ラインから 1/2"
               },
               "option__7": {
-                "label": "ラインから 5\/12"
+                "label": "ラインから 5/12"
               },
               "option__8": {
-                "label": "ラインから 1\/3"
+                "label": "ラインから 1/3"
               },
               "option__9": {
-                "label": "ラインから 1\/4"
+                "label": "ラインから 1/4"
               },
               "option__10": {
-                "label": "ラインから 1\/6"
+                "label": "ラインから 1/6"
               },
               "option__11": {
-                "label": "ラインから 1\/12"
+                "label": "ラインから 1/12"
               }
             },
             "arrows": {
@@ -6190,18 +6193,18 @@
             },
             "slide_animation": {
               "label": "スライドのアニメーションの種類",
-              "info": "アニメーションの名前は[こちら](https:\/\/www.themepunch.com\/revsliderjquery-doc\/slide-transitions\/)コピーして貼り付けしてください。"
+              "info": "アニメーションの名前は[こちら](https://www.themepunch.com/revsliderjquery-doc/slide-transitions/)コピーして貼り付けしてください。"
             },
             "html_animation": {
               "label": "HTML レイヤーアニメーション",
-              "info": "アニメーションのプリセットは[こちら](https:\/\/www.themepunch.com\/revsliderjquery-doc\/layer-transitions\/)"
+              "info": "アニメーションのプリセットは[こちら](https://www.themepunch.com/revsliderjquery-doc/layer-transitions/)"
             },
             "header__10": {
               "content": "カスタム"
             },
             "customization_class": {
               "label": "追加CSSクラス",
-              "info": "CSSクラスを加えるにはユーザーマニュアルを参照してください。こちらは高度な設定です。[追加CSSクラス](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/developer\/)"
+              "info": "CSSクラスを加えるにはユーザーマニュアルを参照してください。こちらは高度な設定です。[追加CSSクラス](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/developer/)"
             }
           }
         },
@@ -6264,31 +6267,31 @@
                 "label": "1行に1アイテム"
               },
               "option__3": {
-                "label": "ラインから 3\/4"
+                "label": "ラインから 3/4"
               },
               "option__4": {
-                "label": "ラインから 2\/3"
+                "label": "ラインから 2/3"
               },
               "option__5": {
-                "label": "ラインから 7\/12"
+                "label": "ラインから 7/12"
               },
               "option__6": {
-                "label": "ラインから 1\/2"
+                "label": "ラインから 1/2"
               },
               "option__7": {
-                "label": "ラインから 5\/12"
+                "label": "ラインから 5/12"
               },
               "option__8": {
-                "label": "ラインから 1\/3"
+                "label": "ラインから 1/3"
               },
               "option__9": {
-                "label": "ラインから 1\/4"
+                "label": "ラインから 1/4"
               },
               "option__10": {
-                "label": "ラインから 1\/6"
+                "label": "ラインから 1/6"
               },
               "option__11": {
-                "label": "ラインから 1\/12"
+                "label": "ラインから 1/12"
               }
             }
           }
@@ -6342,31 +6345,31 @@
                 "label": "1行に1アイテム"
               },
               "option__3": {
-                "label": "ラインから 3\/4 "
+                "label": "ラインから 3/4 "
               },
               "option__4": {
-                "label": "ラインから 2\/3"
+                "label": "ラインから 2/3"
               },
               "option__5": {
-                "label": "ラインから 7\/12"
+                "label": "ラインから 7/12"
               },
               "option__6": {
-                "label": "ラインから 1\/2"
+                "label": "ラインから 1/2"
               },
               "option__7": {
-                "label": "ラインから 5\/12"
+                "label": "ラインから 5/12"
               },
               "option__8": {
-                "label": "ラインから 1\/3"
+                "label": "ラインから 1/3"
               },
               "option__9": {
-                "label": "ラインから 1\/4"
+                "label": "ラインから 1/4"
               },
               "option__10": {
-                "label": "ラインから 1\/6"
+                "label": "ラインから 1/6"
               },
               "option__11": {
-                "label": "ラインから 1\/12"
+                "label": "ラインから 1/12"
               }
             }
           }
@@ -6392,31 +6395,31 @@
                 "label": "1行に1アイテム"
               },
               "option__3": {
-                "label": "ラインから 3\/4"
+                "label": "ラインから 3/4"
               },
               "option__4": {
-                "label": "ラインから 2\/3"
+                "label": "ラインから 2/3"
               },
               "option__5": {
-                "label": "ラインから 7\/12"
+                "label": "ラインから 7/12"
               },
               "option__6": {
-                "label": "ラインから 1\/2"
+                "label": "ラインから 1/2"
               },
               "option__7": {
-                "label": "ラインから 5\/12"
+                "label": "ラインから 5/12"
               },
               "option__8": {
-                "label": "ラインから 1\/3"
+                "label": "ラインから 1/3"
               },
               "option__9": {
-                "label": "ラインから 1\/4"
+                "label": "ラインから 1/4"
               },
               "option__10": {
-                "label": "ラインから 1\/6"
+                "label": "ラインから 1/6"
               },
               "option__11": {
-                "label": "ラインから 1\/12"
+                "label": "ラインから 1/12"
               }
             }
           }
@@ -6468,10 +6471,10 @@
           "content": "ビデオチュートリアル・ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[MISEル（動画）](https:\/\/www.youtube.com\/channel\/UChCFvSvr3YgbYDcumJ_OqzQ)"
+          "content": "[MISEル（動画）](https://www.youtube.com/channel/UChCFvSvr3YgbYDcumJ_OqzQ)"
         },
         "paragraph__2": {
-          "content": "[インフォーメーションライン](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/sections\/additional-section\/information-line\/)"
+          "content": "[インフォーメーションライン](https://misell-theme.com/manual/docs/misell-user-manual/sections/additional-section/information-line/)"
         }
       },
       "blocks": {
@@ -6608,7 +6611,7 @@
           "content": "コンテンツ"
         },
         "paragraph__1": {
-          "content": "[ブログ記事](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/template\/blog-posts\/blog-posts\/)"
+          "content": "[ブログ記事](https://misell-theme.com/manual/docs/misell-user-manual/template/blog-posts/blog-posts/)"
         },
         "autoplay": {
           "label": "自動再生"
@@ -6697,7 +6700,7 @@
               "content": "ユーザーマニュアル"
             },
             "paragraph__1": {
-              "content": "[サイドバー](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/template\/blogs\/blogs-sidebar\/)"
+              "content": "[サイドバー](https://misell-theme.com/manual/docs/misell-user-manual/template/blogs/blogs-sidebar/)"
             }
           }
         },
@@ -6795,7 +6798,7 @@
           "info": "タグによるフィルターを有効にしたい場合、このオプションを無効にしてください。"
         },
         "paragraph__3": {
-          "content": "｢ブロックを追加｣によりフィルターのブロックを追加してフィルターを表示させてください。この設定は｢フィルター｣のブロックにのみ適用されます。[フィルターのカスタマイズ](\/admin\/menus)"
+          "content": "｢ブロックを追加｣によりフィルターのブロックを追加してフィルターを表示させてください。この設定は｢フィルター｣のブロックにのみ適用されます。[フィルターのカスタマイズ](/admin/menus)"
         },
         "show_selected_filters_counter": {
           "label": "フィルターのカウントとリセットボタンを表示"
@@ -7007,10 +7010,10 @@
           "content": "ビデオチュートリアル・ユーザーマニュアル"
         },
         "paragraph__6": {
-          "content": "[フィルターの追加（動画）](https:\/\/www.youtube.com\/watch?v=SC-zA52wJ0g&t=57s)"
+          "content": "[フィルターの追加（動画）](https://www.youtube.com/watch?v=SC-zA52wJ0g&t=57s)"
         },
         "paragraph__7": {
-          "content": "[コレクション](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/template\/collections\/)"
+          "content": "[コレクション](https://misell-theme.com/manual/docs/misell-user-manual/template/collections/)"
         }
       },
       "blocks": {
@@ -7093,7 +7096,7 @@
               "content": "このブロックは｢商品グリッド>フィルター｣で｢デフォルトフィルター｣のオプションが有効の場合のみ表示されます。\n ｢Search & Discover｣アプリで設定したフィルターも、こちらのブロックを追加して表示させてください。"
             },
             "paragraph__2": {
-              "content": "[フィルターのカスタマイズ](\/admin\/menus)"
+              "content": "[フィルターのカスタマイズ](/admin/menus)"
             },
             "header__1": {
               "content": "セクション設定"
@@ -8207,19 +8210,19 @@
         "gallery_size": {
           "label": "ギャラリーサイズ",
           "option__1": {
-            "label": "4\/12"
+            "label": "4/12"
           },
           "option__2": {
-            "label": "5\/12"
+            "label": "5/12"
           },
           "option__3": {
-            "label": "6\/12"
+            "label": "6/12"
           },
           "option__4": {
-            "label": "7\/12"
+            "label": "7/12"
           },
           "option__5": {
-            "label": "8\/12"
+            "label": "8/12"
           }
         },
         "sidebar": {
@@ -8272,7 +8275,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[商品ページ](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/template\/products\/)"
+          "content": "[商品ページ](https://misell-theme.com/manual/docs/misell-user-manual/template/products/)"
         }
       },
       "blocks": {
@@ -8566,19 +8569,19 @@
         "gallery_size": {
           "label": "ギャラリーのサイズ",
           "option__1": {
-            "label": "4\/12"
+            "label": "4/12"
           },
           "option__2": {
-            "label": "5\/12"
+            "label": "5/12"
           },
           "option__3": {
-            "label": "6\/12"
+            "label": "6/12"
           },
           "option__4": {
-            "label": "7\/12"
+            "label": "7/12"
           },
           "option__5": {
-            "label": "8\/12"
+            "label": "8/12"
           }
         },
         "enable_sticky_sidebar": {
@@ -8591,7 +8594,7 @@
           "content": "ユーザーマニュアル"
         },
         "paragraph__2": {
-          "content": "[商品ページ](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/template\/products\/product-page\/)"
+          "content": "[商品ページ](https://misell-theme.com/manual/docs/misell-user-manual/template/products/product-page/)"
         }
       },
       "blocks": {
@@ -8843,7 +8846,7 @@
           "label": "デフォルトフィルターを有効化"
         },
         "paragraph__1": {
-          "content": "管理画面から絞り込み要素を追加して、ブロックを追加してフィルターを表示します。[フィルターのカスタマイズ](\/admin\/menus)"
+          "content": "管理画面から絞り込み要素を追加して、ブロックを追加してフィルターを表示します。[フィルターのカスタマイズ](/admin/menus)"
         },
         "show_selected_filters_counter": {
           "label": "フィルターのカウントとリセットボタンを表示"
@@ -9040,13 +9043,13 @@
           "content": "ビデオガイド"
         },
         "paragraph__4": {
-          "content": "[フィルターの追加 YouTube](https:\/\/www.youtube.com\/watch?v=SC-zA52wJ0g&t=57s)"
+          "content": "[フィルターの追加 YouTube](https://www.youtube.com/watch?v=SC-zA52wJ0g&t=57s)"
         },
         "header__7": {
           "content": "ユーザーマニュアル"
         },
         "paragraph__5": {
-          "content": "[コレクション](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/template\/collections\/)"
+          "content": "[コレクション](https://misell-theme.com/manual/docs/misell-user-manual/template/collections/)"
         }
       },
       "blocks": {
@@ -9093,7 +9096,7 @@
               "content": "このブロックは｢商品グリッド>フィルター｣で｢デフォルトフィルター｣のオプションが有効の場合のみ表示されます。\n ｢Search & Discover｣アプリで設定したフィルターも、こちらのブロックを追加して表示させてください。"
             },
             "paragraph__2": {
-              "content": "[フィルターのカスタマイズ](\/admin\/menus)"
+              "content": "[フィルターのカスタマイズ](/admin/menus)"
             },
             "header__1": {
               "content": "セクション設定"
@@ -9767,10 +9770,10 @@
           "content": "ビデオチュートリアル・ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[商品バリエーション（動画）](https:\/\/youtu.be\/4-So_i2XwZA)"
+          "content": "[商品バリエーション（動画）](https://youtu.be/4-So_i2XwZA)"
         },
         "paragraph__2": {
-          "content": "[商品バリエーション](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/theme-settings\/product-variants\/)"
+          "content": "[商品バリエーション](https://misell-theme.com/manual/docs/misell-user-manual/theme-settings/product-variants/)"
         }
       },
       "blocks": {
@@ -9995,10 +9998,10 @@
           "content": "ビデオチュートリアル・ユーザーマニュアル"
         },
         "paragraph__1": {
-          "content": "[ MISEル マニュアル（動画）](https:\/\/www.youtube.com\/channel\/UChCFvSvr3YgbYDcumJ_OqzQ)"
+          "content": "[ MISEル マニュアル（動画）](https://www.youtube.com/channel/UChCFvSvr3YgbYDcumJ_OqzQ)"
         },
         "paragraph__2": {
-          "content": "[検索フォーム](https:\/\/misell-theme.com\/manual\/docs\/misell-user-manual\/sections\/additional-section\/search-form\/)"
+          "content": "[検索フォーム](https://misell-theme.com/manual/docs/misell-user-manual/sections/additional-section/search-form/)"
         }
       }
     }
