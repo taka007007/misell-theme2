@@ -5,3 +5,11 @@ body {
 p {
   font-style: var(--base-style);
 }
+
+/* ブログ記事の見出しと本文にデフォルトで当たっているイタリックを削除 */
+
+.article .font-italic,
+.post .font-italic,
+.article blockquote {
+  font-style: var(--heading-style) !important;
+}
