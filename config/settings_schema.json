@@ -1067,12 +1067,6 @@
         "default": 13
       },
       {
-        "type": "checkbox",
-        "id": "font_uppercase",
-        "label": "t:settings_schema.typography.settings.font_uppercase.label",
-        "default": true
-      },
-      {
         "type": "header",
         "content": "t:settings_schema.typography.settings.header__2.content"
       },
@@ -1416,6 +1410,12 @@
       //     }
       //   ]
       // },
+      {
+        "type": "checkbox",
+        "id": "font_uppercase",
+        "label": "t:settings_schema.typography.settings.font_uppercase.label",
+        "default": true
+      },
       {
         "type": "header",
         "content": "t:settings_schema.typography.settings.header__6.content"
