@@ -10,6 +10,6 @@ p {
 
 .article .font-italic,
 .post .font-italic,
-.article blockquote {
+blockquote {
   font-style: var(--heading-style) !important;
 }
