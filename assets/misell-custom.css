@@ -8,8 +8,7 @@ p {
 
 /* ブログ記事の見出しと本文にデフォルトで当たっているイタリックを削除 */
 
-.article .font-italic,
-.post .font-italic,
+.font-italic,
 blockquote {
   font-style: var(--heading-style) !important;
 }
